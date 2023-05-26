@@ -17,6 +17,7 @@
   - ✈️ Travel lover
   - 🚴‍♂️ Love some bicycle around
   - 🚶‍♂️ Always walking, like Forrest Gump, but steadily going
+  - 👨‍💼 Administrator of student cloud resources for Computer Science Bachelor and Master degress of Università di Padova
   
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight" />
