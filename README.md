@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel!</h1>
-<h3 align="center">A passionate learner of any kind of topic, music lover, teacher of many subjects: the best is yet to come. </h3>
+<h3 align="center">A passionate learner of any kind of topic, music lover, freelance teacher of many subjects: the best is yet to come. </h3>
 
  ## Personal informations 📎
   - Known languages: 
