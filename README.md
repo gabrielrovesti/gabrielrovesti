@@ -15,7 +15,7 @@ Hi there, curious fellas, welcome to this crazy repo!
   - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until college)
   - 🎼 Music lover
   - 🎨 Art and details lover
-  - 🥋 Karateka from many years
+  - 🥋 Karateka for many years
   - ✈️ Travel lover
   - 🚴‍♂️ Love some bicycle around
   - 🚶‍♂️ Always walking, like Forrest Gump, but steadily going
