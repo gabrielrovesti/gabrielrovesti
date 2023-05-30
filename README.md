@@ -10,6 +10,7 @@
   
 - ⚡ Fun facts: 
   - 🐧 In love with Linux systems (main used: Ubuntu, Arch Linux)
+  - 🪟 Windows Expert (from DOS up until WIndows 11) and system configurator
   - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until college)
   - 🎼 Music lover (especially funk and black music)
   - 🕺 Moonwalker and Michael Jackson fan
