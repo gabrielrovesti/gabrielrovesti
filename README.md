@@ -11,7 +11,7 @@
 - ⚡ Fun facts: 
   - 🐧 In love with Linux systems (main used: Ubuntu, Arch Linux)
   - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until college)
-  - 🎼 Music lover (especially funk7black stuff)
+  - 🎼 Music lover (especially funk and black music)
   - 🕺 Moonwalker and Michael Jackson fan
   - 🎮 Game design enthusiast, retro gamer and fan of gaming in general
   - 🎨 Art and details lover
