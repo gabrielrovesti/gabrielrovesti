@@ -11,12 +11,14 @@
 - ⚡ Fun facts: 
   - 🐧 In love with Linux systems (main used: Ubuntu, Arch Linux)
   - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until college)
-  - 🎼 Music lover
+  - 🎼 Music lover (especially funk7black stuff)
+  - 🕺 Moonwalker and Michael Jackson fan
+  - 🎮 Game design enthusiast, retro gamer and fan of gaming in general
   - 🎨 Art and details lover
   - 🥋 Karateka for many years
   - ✈️ Travel lover
   - 🚴‍♂️ Love some bicycle around
-  - 🚶‍♂️ Always walking, like Forrest Gump, but steadily going
+  - 🚶‍♂️ I'm the Forrest Gump of walking: it's my evening pastime after studying/working all day long
   - 👨‍💼 Administrator of student cloud resources for Computer Science Bachelor and Master degrees of Università di Padova
   
 ### Stats
