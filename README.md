@@ -12,6 +12,7 @@
   - 🐧 In love with Linux systems (main used: Ubuntu, Arch Linux)
   - 🪟 Windows Expert (from DOS up until WIndows 11) and system configurator
   - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until college)
+  - 🆘 Helping also old people or people not confident with PCs to gain knowledge about basic usage of systems and problem solver
   - 🎼 Music lover (especially funk and black music)
   - 🕺 Moonwalker and Michael Jackson fan
   - 🎮 Game design enthusiast, retro gamer and fan of gaming in general
