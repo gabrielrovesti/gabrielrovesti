@@ -9,7 +9,7 @@
   - Known database resources and whatnot: <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
   
 - ⚡ Fun facts: 
-  - 🐧 In love with Linux systems (main used: Ubuntu, Arch Linux)
+  - 🐧 In love with Linux systems (main used: Ubuntu, Debian, Linux Mint, Arch Linux)
   - 🪟 Windows Expert (from DOS up until WIndows 11) and system configurator
   - 📕 Passionate writer and poetry lover
   - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until college)
