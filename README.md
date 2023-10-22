@@ -48,6 +48,7 @@
 
 - ⚡ **Fun Facts:**
    - 🐧 In love with Linux systems (mainly used: Ubuntu, Debian, Linux Mint, Arch Linux)
+   - 🤖 Cybersec enthusiast and Assembly low-level expert
    - 🪟 Windows Expert (from DOS up until Windows 11) and system configurator
    - 📕 Passionate writer and poetry lover
    - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until college)
@@ -58,6 +59,7 @@
    - 🎨 Art and details lover
    - 🥋 Karateka for many years
    - ✈️ Travel lover
+   - 👨‍🎤 I love singing and making some beats vocally
    - 🚴‍♂️ Love some bicycle around
    - 🚶‍♂️ I'm the Forrest Gump of walking: it's my evening pastime after studying/working all day long
    - 🤓 Knowledge enthusiast and Wikipedia/Wikimedia Foundation collaborator
