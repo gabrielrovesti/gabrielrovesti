@@ -91,9 +91,12 @@
    ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
    ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
+- Other unlisted things known:
+Visual Basic, BASIC, Cisco Packet Tracer, AMPL
+
 - ⚡ Fun Facts:
    - 🤖 Cybersec enthusiast and Assembly low-level expert
-   - 🪟 Windows Expert (from DOS up until Windows 11, also know Visual Basic) and system configurator (using Cisco software)
+   - 🪟 Windows Expert (from DOS up until Windows 11) and system configurator
    - 📕 Passionate writer and poetry lover
    - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until college)
    - 🆘 Helping also old people or people not confident with PCs to gain knowledge about basic usage of systems and problem solver
