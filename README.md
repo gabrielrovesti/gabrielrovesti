@@ -77,7 +77,7 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-### Things I want to learn <p></p>
+### Things I want to learn
    ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
    ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -94,7 +94,7 @@
 ### Other unlisted things known
 Visual Basic, BASIC, Cisco Packet Tracer, AMPL
 
-- ⚡ Fun Facts:
+### ⚡ Fun Facts
    - 🤖 Cybersec enthusiast and Assembly low-level expert
    - 🪟 Windows Expert (from DOS up until Windows 11) and system configurator
    - 📕 Passionate writer and poetry lover
