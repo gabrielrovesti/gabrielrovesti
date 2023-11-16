@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel!</h1>
-<h3 align="center">A passionate learner of any kind of topic, music lover, freelance teacher of many subjects: the best is yet to come.</h3>
+<h3 align="center">CS Master Student in Internet Mobile and Security, Tutor, Freelance Teacher: the best is yet to come.</h3>
 
 <div align="center">
  
