@@ -24,13 +24,14 @@
    <a href="https://commonmark.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/> </a>
    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/> </a>
+   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" width="40" height="40"/> </a>
    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> </a>
    <a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> </a>
    <a href="https://aka.ms/terminal" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Windows Terminal" width="40" height="40"/> </a>
    <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/> </a>
    <a href="https://www.gnu.org/software/octave/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/octave/octave-original.svg" alt="Octave" width="40" height="40"/> </a>
+
 
 
 ### Known Frameworks and Engines
