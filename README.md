@@ -21,28 +21,28 @@
 <img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/main/topics/java/java.png"/>
 <img align="left" alt="C Sharp" width="26px" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png"/>
 <img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png"/>
-<img align="left" alt="Matlab" width="26px" src="https://github.com/github/explore/blob/main/topics/matlab/matlab.png"/><br>
-<img align="left" alt="TypeScript" width="26px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png"/><br>
-<img align="left" alt="LaTeX" width="26px" src="https://github.com/github/explore/blob/main/topics/latex/latex.png"/><br>
-<img align="left" alt="Solidity" width="26px" src="https://github.com/github/explore/blob/main/topics/solidity/solidity.png"/><br>
-<img align="left" alt="C" width="26px" src="https://github.com/github/explore/blob/main/topics/c/c.png"/><br>
-<img align="left" alt="Markdown" width="26px" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png"/><br>
-<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png"/><br>
-<img align="left" alt="Powershell" width="26px" src="https://github.com/github/explore/blob/main/topics/powershell/powershell.png"/><br>
-<img align="left" alt="Arduino" width="26px" src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png"/><br>
-<img align="left" alt="Lua" width="26px" src="https://github.com/github/explore/blob/main/topics/lua/lua.png"/><br>
-<img align="left" alt="Visual Basic" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-basic/visual-basic.png"/><br>
+<img align="left" alt="Matlab" width="26px" src="https://github.com/github/explore/blob/main/topics/matlab/matlab.png"/>
+<img align="left" alt="TypeScript" width="26px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png"/>
+<img align="left" alt="LaTeX" width="26px" src="https://github.com/github/explore/blob/main/topics/latex/latex.png"/>
+<img align="left" alt="Solidity" width="26px" src="https://github.com/github/explore/blob/main/topics/solidity/solidity.png"/>
+<img align="left" alt="C" width="26px" src="https://github.com/github/explore/blob/main/topics/c/c.png"/>
+<img align="left" alt="Markdown" width="26px" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png"/>
+<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png"/>
+<img align="left" alt="Powershell" width="26px" src="https://github.com/github/explore/blob/main/topics/powershell/powershell.png"/>
+<img align="left" alt="Arduino" width="26px" src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png"/>
+<img align="left" alt="Lua" width="26px" src="https://github.com/github/explore/blob/main/topics/lua/lua.png"/>
+<img align="left" alt="Visual Basic" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-basic/visual-basic.png"/>
    ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 
 ### Known Frameworks and Engines
-<img align="left" alt="Bootstrap" width="26px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png"/><br>
-<img align="left" alt="Node JS" width="26px" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png"/><br>
-<img align="left" alt="Yarn" width="26px" src="https://github.com/github/explore/blob/main/topics/yarn/yarn.png"/><br>
-<img align="left" alt="Qt" width="26px" src="https://github.com/github/explore/blob/main/topics/qt/qt.png"/><br>
-<img align="left" alt="Jest" width="26px" src="https://github.com/github/explore/blob/main/topics/jest/jest.png"/><br>
-<img align="left" alt="Wordpress" width="26px" src="https://github.com/github/explore/blob/main/topics/wordpress/wordpress.png"/><br>
-<img align="left" alt="Unity" width="26px" src="https://github.com/github/explore/blob/main/topics/unity/unity.png"/><br>
-<img align="left" alt="Unreal Engine" width="26px" src="https://github.com/github/explore/blob/main/topics/unreal-engine/unreal-engine.png"/><br>
+<img align="left" alt="Bootstrap" width="26px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png"/>
+<img align="left" alt="Node JS" width="26px" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png"/>
+<img align="left" alt="Yarn" width="26px" src="https://github.com/github/explore/blob/main/topics/yarn/yarn.png"/>
+<img align="left" alt="Qt" width="26px" src="https://github.com/github/explore/blob/main/topics/qt/qt.png"/>
+<img align="left" alt="Jest" width="26px" src="https://github.com/github/explore/blob/main/topics/jest/jest.png"/>
+<img align="left" alt="Wordpress" width="26px" src="https://github.com/github/explore/blob/main/topics/wordpress/wordpress.png"/>
+<img align="left" alt="Unity" width="26px" src="https://github.com/github/explore/blob/main/topics/unity/unity.png"/>
+<img align="left" alt="Unreal Engine" width="26px" src="https://github.com/github/explore/blob/main/topics/unreal-engine/unreal-engine.png"/>
    ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
    ![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
