@@ -10,6 +10,8 @@
 
 ## Languages and Tools 📎
 
+---
+
 <p align="center"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -69,6 +71,8 @@
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight)
+
+---
 
 ### Summary
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielrovesti&show_icons=true&theme=tokyonight)
