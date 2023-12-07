@@ -10,44 +10,42 @@
 
 ## Personal Informations 📎
 ### Known Languages 
-<img align="left" alt="HTML" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png"/>
-<img align="left" alt="CSS" width="26px" src="https://github.com/github/explore/blob/main/topics/css/css.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"/>
-<img align="left" alt="PHP" width="26px" src="https://github.com/github/explore/blob/main/topics/php/php.png"/>
-<img align="left" alt="C++" width="26px" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png"/>
-<img align="left" alt="Kotlin" width="26px" src="https://github.com/github/explore/blob/main/topics/kotlin/kotlin.png"/>
-<img align="left" alt="React" width="26px" src="https://github.com/github/explore/blob/main/topics/react/react.png"/>
-<img align="left" alt="SQL" width="26px" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"/>
-<img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/main/topics/java/java.png"/>
-<img align="left" alt="C Sharp" width="26px" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png"/>
-<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png"/>
-<img align="left" alt="Matlab" width="26px" src="https://github.com/github/explore/blob/main/topics/matlab/matlab.png"/>
-<img align="left" alt="TypeScript" width="26px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png"/>
-<img align="left" alt="LaTeX" width="26px" src="https://github.com/github/explore/blob/main/topics/latex/latex.png"/>
-<img align="left" alt="Solidity" width="26px" src="https://github.com/github/explore/blob/main/topics/solidity/solidity.png"/>
-<img align="left" alt="C" width="26px" src="https://github.com/github/explore/blob/main/topics/c/c.png"/>
-<img align="left" alt="Markdown" width="26px" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png"/>
-<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png"/>
-<img align="left" alt="Powershell" width="26px" src="https://github.com/github/explore/blob/main/topics/powershell/powershell.png"/>
-<img align="left" alt="Arduino" width="26px" src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png"/>
-<img align="left" alt="Lua" width="26px" src="https://github.com/github/explore/blob/main/topics/lua/lua.png"/>
-<img align="left" alt="Visual Basic" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-basic/visual-basic.png"/>
-<img align="left" alt="Octave" width="26px" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
+   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+   ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+   ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+   ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+   ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+   ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 
 ### Known Frameworks and Engines
-<img align="left" alt="Bootstrap" width="26px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png"/>
-<img align="left" alt="Node JS" width="26px" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png"/>
-<img align="left" alt="Yarn" width="26px" src="https://github.com/github/explore/blob/main/topics/yarn/yarn.png"/>
-<img align="left" alt="Qt" width="26px" src="https://github.com/github/explore/blob/main/topics/qt/qt.png"/>
-<img align="left" alt="Jest" width="26px" src="https://github.com/github/explore/blob/main/topics/jest/jest.png"/>
-<img align="left" alt="Wordpress" width="26px" src="https://github.com/github/explore/blob/main/topics/wordpress/wordpress.png"/>
-<img align="left" alt="Unity" width="26px" src="https://github.com/github/explore/blob/main/topics/unity/unity.png"/>
-<img align="left" alt="Unreal Engine" width="26px" src="https://github.com/github/explore/blob/main/topics/unreal-engine/unreal-engine.png"/>
-<img align="left" alt=".NET" width="26px" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img align="left" alt="TestingLibrary" width="26px" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
-<img align="left" alt="Express JS" width="26px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAF"/>
-<img align="left" alt="TailwindCSS" width="26px" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img align="left" alt="Web3.js" width="26px" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+   ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+   ![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+   ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### Known Work Tools
    ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
