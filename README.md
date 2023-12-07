@@ -32,7 +32,7 @@
 <img align="left" alt="Arduino" width="26px" src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png"/>
 <img align="left" alt="Lua" width="26px" src="https://github.com/github/explore/blob/main/topics/lua/lua.png"/>
 <img align="left" alt="Visual Basic" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-basic/visual-basic.png"/>
-   ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+<img align="left" alt="Octave" width="26px" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
 
 ### Known Frameworks and Engines
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png"/>
@@ -44,11 +44,10 @@
 <img align="left" alt="Unity" width="26px" src="https://github.com/github/explore/blob/main/topics/unity/unity.png"/>
 <img align="left" alt="Unreal Engine" width="26px" src="https://github.com/github/explore/blob/main/topics/unreal-engine/unreal-engine.png"/>
 <img align="left" alt=".NET" width="26px" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  
-   ![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+<img align="left" alt="TestingLibrary" width="26px" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
+<img align="left" alt="Express JS" width="26px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAF"/>
+<img align="left" alt="TailwindCSS" width="26px" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img align="left" alt="Web3.js" width="26px" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 
 ### Known Work Tools
    ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
