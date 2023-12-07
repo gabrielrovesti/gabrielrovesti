@@ -44,8 +44,11 @@
 <a href="https://material-ui.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/> </a>
 <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" alt="Putty" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+ 
+---
 
-### ⚡ Fun Facts
+## ⚡ Fun Facts
    - 🤖 Cybersec enthusiast and Assembly low-level expert
    - 🪟 Windows Expert (from DOS up until Windows 11) and system configurator
    - 📕 Passionate writer and poetry lover
@@ -61,6 +64,8 @@
    - 🚴‍♂️ Love some bicycle around
    - 🚶‍♂️ I'm the Forrest Gump of walking: it's my evening pastime after studying/working all day long
    - 🤓 Knowledge enthusiast and Wikipedia/Wikimedia Foundation collaborator
+
+--- 
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight)
