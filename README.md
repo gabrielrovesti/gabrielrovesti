@@ -43,7 +43,7 @@
 <img align="left" alt="Wordpress" width="26px" src="https://github.com/github/explore/blob/main/topics/wordpress/wordpress.png"/>
 <img align="left" alt="Unity" width="26px" src="https://github.com/github/explore/blob/main/topics/unity/unity.png"/>
 <img align="left" alt="Unreal Engine" width="26px" src="https://github.com/github/explore/blob/main/topics/unreal-engine/unreal-engine.png"/>
-   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
    ![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
