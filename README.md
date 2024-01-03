@@ -52,7 +52,6 @@
 
 ## ⚡ Fun Facts
    - 🤖 A curious guy at my core: costantly reading about stuff and searching other things
-   - 🪟 Windows Expert (from DOS up until Windows 11) and system configurator
    - 📕 Passionate writer and poetry lover
    - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until bachelor college colleagues)
    - 🆘 Helping also old people or people not confident with PCs to gain knowledge about basic usage of systems and problem solver
