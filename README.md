@@ -60,7 +60,6 @@
    - 🎮 Game design enthusiast, retro gamer, and fan of gaming in general
    - 🎨 Art and details lover
    - 🥋 Karateka for many years
-   - ✈️ Travel lover
    - 👨‍🎤 I love singing and making some beats vocally
    - 🚴‍♂️ Love some bicycle around
    - 🚶‍♂️ I'm the Forrest Gump of walking: it's my evening pastime after studying/working all day long
