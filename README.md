@@ -3,11 +3,9 @@
 
 <div align="center">
  
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rovesti-601404220/)
+[![Linkedin and CV](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rovesti-601404220/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrovesti/)
-and [my curriculum]((https://www.linkedin.com/in/gabriel-rovesti-601404220/overlay/1718289587356/single-media-viewer/?profileId=ACoAADeWzmEBjuaWaznLA8x19YCqdD06WAege8o)))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rovestigabriel@gmail.com)
-[![Follow me!](https://img.shields.io/github/followers/{gabrielrovesti}.svg?style=social&label=Follow&maxAge=2592000)]
 </div>
 
 ## Languages and Tools 📎
