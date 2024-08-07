@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Gabriel!</h1>
-<h3 align="center">Computer Science M.Sc. Student majoring in Internet, Mobile and Security, Tutor, Freelance Teacher: the best is yet to come.</h3>
+<h3 align="center">Computer Science M.Sc. Degree Student in Major in Internet Mobile and Security, Tutor, Freelance Teacher: the best is yet to come.</h3>
 
 <div align="center">
  
