@@ -77,12 +77,13 @@
 - **PLA Bluetooth Environment** (12/2023 - 06/2024): Advanced security project focusing on physical layer authentication for Bluetooth wireless channels.
 - **Translatify** (10/2022 - 06/2023): Multi-tenant translation platform for simultaneous online content translation.
 - **VerifiedMovies** (03/2023 - 06/2023): Blockchain project for authentication based on Verifiable Credentials and Zero Knowledge Proof.
+- **Fog Festival** (03/2022 - 05/2022): Database management system for a music festival using SQL, PostgreSQL, and C++.
+- **Qt Charts CR** (09/2020 - 02/2021): Application for visualizing charts and managing JSON and XML data using Qt framework.
 
 ## 🏆 Achievements
 
-- Second Place in the "Accattivante ed Accessibile" Competition (12/2022)
-- Google Digital Marketing Certification (07/2020)
-- Multiple Academic Merit Scholarships
+- Second Place in the "Accattivante ed Accessibile" Competition about web accessibility creation (12/2022)
+- Multiple Academic Merit Scholarships between High School and University
 
 ## ⚡ Fun Facts
    - 🤖 A curious guy at my core: costantly reading about stuff and searching other things
@@ -104,8 +105,3 @@
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight)
-
----
-
-### Summary
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielrovesti&show_icons=true&theme=tokyonight)
