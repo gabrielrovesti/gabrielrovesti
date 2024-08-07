@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Gabriel!</h1>
-<h3 align="center">Computer Science M.Sc. Degree Student in Major in Internet Mobile and Security, Tutor, Freelance Teacher: the best is yet to come.</h3>
+# <h1 align="center">Hi 👋, I'm Gabriel!</h1>
+<h3 align="center">Computer Science M.Sc. Student majoring in Internet, Mobile and Security, Tutor, Freelance Teacher: the best is yet to come.</h3>
 
 <div align="center">
  
 [![Linkedin and CV](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rovesti-601404220/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrovesti/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rovestigabriel@gmail.com)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ezsexpu1ocj6vdeuvajuqk74c)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/gabrielrovesti/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCx8SzP2AT3q9EpsoQnA1rOg)
+
 </div>
 
 ## Languages and Tools 📎
@@ -50,7 +54,35 @@
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank">
+</p>
+
 ---
+
+## 🎓 Education
+
+- **M.Sc. in Computer Science** (Major in Internet, Mobile and Security) - University of Padua (2023-2025 expected)
+- **B.Sc. in Computer Science** - University of Padua (2020-2023)
+- **Diploma in Computer Science** - I.I.S Polo Tecnico di Adria (2015-2020)
+
+## 💼 Professional Experience
+
+- **Tutor for Inclusion** - University of Padua (11/2023 - Present)
+- **Teaching Assistant for Formal Languages and Automata** - University of Padua (02/2024 - 06/2024)
+- **Teaching Assistant for Object-Oriented Programming** - University of Padua (09/2023 - 02/2024)
+- **Private Tutor and IT Assistant** - Freelance (06/2016 - Present)
+
+## 🚀 Projects
+
+- **DocHub** (04/2024 - 07/2024): Startup simulation project for simplifying digital document retrieval in Italy.
+- **PLA Bluetooth Environment** (12/2023 - 06/2024): Advanced security project focusing on physical layer authentication for Bluetooth wireless channels.
+- **Translatify** (10/2022 - 06/2023): Multi-tenant translation platform for simultaneous online content translation.
+- **VerifiedMovies** (03/2023 - 06/2023): Blockchain project for authentication based on Verifiable Credentials and Zero Knowledge Proof.
+
+## 🏆 Achievements
+
+- Second Place in the "Accattivante ed Accessibile" Competition (12/2022)
+- Google Digital Marketing Certification (07/2020)
+- Multiple Academic Merit Scholarships
 
 ## ⚡ Fun Facts
    - 🤖 A curious guy at my core: costantly reading about stuff and searching other things
