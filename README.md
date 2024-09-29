@@ -66,6 +66,9 @@
 
 ## 💼 Professional Experience
 
+- **Teaching Assistant for Computability course** - University of Padua (09/2024 - 02/2025)  
+  - Provided instructional support for the Computability course for M.Sc. in Computer Science, entirely in English.
+
 - **Tutor for Inclusion** - University of Padua (11/2023 - Present)  
   - Supported teaching in the areas of Mathematics, Programming, Operations Research, and Software Engineering.  
   - Managed personalized exam arrangements, student accommodations, and administrative tasks during the summer and winter periods.
