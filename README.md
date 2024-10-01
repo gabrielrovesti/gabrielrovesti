@@ -58,37 +58,6 @@
 
 ---
 
-## 🎓 Education
-
-- **M.Sc. in Computer Science** (Major in Internet, Mobile and Security) - University of Padua (2023-2025 expected)
-- **B.Sc. in Computer Science** - University of Padua (2020-2023)
-- **Diploma in Computer Science** - I.I.S Polo Tecnico di Adria (2015-2020)
-
-## 💼 Professional Experience
-
-- **Teaching Assistant for Computability course** - University of Padua (09/2024 - 02/2025)  
-  - Provided instructional support for the Computability course for M.Sc. in Computer Science, entirely in English.
-
-- **Tutor for Inclusion** - University of Padua (11/2023 - Present)  
-  - Supported teaching in the areas of Mathematics, Programming, Operations Research, and Software Engineering.  
-  - Managed personalized exam arrangements, student accommodations, and administrative tasks during the summer and winter periods.
-  
-- **Teaching Assistant for Formal Languages and Automata** - University of Padua (02/2024 - 06/2024)  
-  - Provided instructional support for the Formal Languages and Automata course (undergraduate level).
-  
-- **Teaching Assistant for Object-Oriented Programming** - University of Padua (09/2023 - 02/2024)  
-  - Assisted in teaching Object-Oriented Programming, supporting students in understanding Java, C++, and object-oriented design patterns.
-  
-- **Private Tutor and IT Assistant** - Freelance (06/2016 - Present)  
-  - Provided tutoring in subjects like Mathematics, Chemistry, Programming, and Web Development, for various educational levels.  
-  - Supported IT users with cybersecurity, software development, and basic digital skills.
-
-- **Intern** - Sync Lab S.r.l. (03/2023 - 06/2023)  
-  - Developed a Proof of Concept (POC) for a decentralized app (DApp) on the Ethereum blockchain using technologies like Self-Sovereign Identity (SSI) and Decentralized Identifiers (DID).
-
-- **Customer Service Representative** - Clesp S.r.l. (07/2020 - 10/2021)  
-  - Managed customer service operations for affiliated stores, utilizing MySQL Workbench for database management.
-
 ## 🚀 Projects
 - **UAV Route Planning Strategies for Efficient Coverage Search in Complex Environments** (07/2024 - 09/2024): UAV Route Planning Strategies for Efficient Coverage Search in Complex Environments
 - **DocHub** (04/2024 - 07/2024): Startup simulation project for simplifying digital document retrieval in Italy.
