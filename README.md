@@ -78,7 +78,7 @@
    - 📕 Passionate writer and poetry lover
    - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until bachelor college colleagues)
    - 🆘 Helping also old people or people not confident with PCs to gain knowledge about basic usage of systems and problem solver
-   - 🎼 Music lover (especially funk and black music)
+   - 🎼 Music lover (especially funk and black music, in love with some drums)
    - 🕺 Moonwalker and Michael Jackson fan
    - 🎮 Game design enthusiast, retro gamer, and fan of gaming in general
    - 🎨 Art and details lover
@@ -87,6 +87,7 @@
    - 🚴‍♂️ Love some bicycle around
    - 🚶‍♂️ I'm the Forrest Gump of walking: it's my evening pastime after studying/working all day long
    - 🤓 Knowledge enthusiast and Wikipedia/Wikimedia Foundation collaborator
+   - ✔️ Not related to toxic people at all - all references are NOT random
 
 --- 
 
