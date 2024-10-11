@@ -80,7 +80,7 @@
    - 🚴‍♂️ Love some bicycle around
    - 🚶‍♂️ I'm the Forrest Gump of walking: it's my evening pastime after studying/working all day long
    - 🤓 Knowledge enthusiast and Wikipedia/Wikimedia Foundation collaborator
-   - ✔️ Not related to toxic people at all - all references are NOT random
+   - ✔️ Not related to toxic people *at all* - all references are NOT random, glad to have helped many people over the years
 
 --- 
 
