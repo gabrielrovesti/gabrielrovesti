@@ -46,7 +46,10 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+ <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
+ <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>
+ <a href="https://flutter.dev/" target="_blank"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> </a>
+ <a href="https://dotnet.microsoft.com/it-it/languages/csharp" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> </a>
 </p>
 
 ---
@@ -85,7 +88,5 @@
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpg/?username=gabrielrovesti&color=brightgreen)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielrovesti&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Gabriel's github activity graph](https://activity-graph.herokuapp.com/graph?username=gabrielrovesti&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
