@@ -85,3 +85,7 @@
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpg/?username=gabrielrovesti&color=brightgreen)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielrovesti&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's github activity graph](https://activity-graph.herokuapp.com/graph?username=gabrielrovesti&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
