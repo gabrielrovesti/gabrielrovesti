@@ -89,5 +89,5 @@
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielrovesti&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielrovesti&theme=tokyonight)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
