@@ -56,9 +56,14 @@
 ---
 
 ## 🚀 Projects
-- **UAV Route Planning Strategies for Efficient Coverage Search in Complex Environments** (07/2024 - 09/2024): UAV Route Planning Strategies for Efficient Coverage Search in Complex Environments
+- **Circuit Board Drilling Optimization** (10/2024 - 01/2025): Implementation and comparison of exact (CPLEX) and metaheuristic (Tabu Search) approaches for optimizing PCB drilling sequences, achieving up to 84% efficiency improvement.
+- **IT Service Management - Bank Decommissioning** (06/2024 - 09/2024): Documentation and plans for IT Service Management decommissioning project for NDB, focusing on connectivity services transition using ITIL v4 framework.
+- **UAV Route Planning Strategies** (07/2024 - 09/2024): Comprehensive research on UAV route planning strategies for efficient coverage search in complex environments.
 - **DocHub** (04/2024 - 07/2024): Startup simulation project for simplifying digital document retrieval in Italy.
+- **NIST CSF Security Report** (04/2024 - 06/2024): Comprehensive evaluation report of NIST Cybersecurity Framework 2.0 for healthcare systems.
 - **PLA Bluetooth Environment** (12/2023 - 06/2024): Advanced security project focusing on physical layer authentication for Bluetooth wireless channels.
+- **Web Information Management** (11/2023 - 01/2024): Usability analysis of University of Padua website following web design principles.
+- **Il Gomitolo delle Magie - La Fattoria al Laghetto** (05/2023 - 11/2023): WordPress websites development for organizations.
 - **Translatify** (10/2022 - 06/2023): Multi-tenant translation platform for simultaneous online content translation.
 - **VerifiedMovies** (03/2023 - 06/2023): Blockchain project for authentication based on Verifiable Credentials and Zero Knowledge Proof.
 - **Fog Festival** (03/2022 - 05/2022): Database management system for a music festival using SQL, PostgreSQL, and C++.
