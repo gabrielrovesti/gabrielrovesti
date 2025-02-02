@@ -71,8 +71,10 @@
 
 ## 🏆 Achievements
 
+- Awarded as one of the best 50 STEM Students in all of UniPD in 2023-2024 (only one of Computer Science)
 - Second Place in the "Accattivante ed Accessibile" Competition about web accessibility creation (12/2022)
-- Multiple Academic Merit Scholarships between High School and University
+- Multiple Academic Merit Scholarships between High School and University (4 to count)
+- Bronze medals and a cup in interregional karate competitions (FIJLKAM)
 
 ## ⚡ Fun Facts
    - 🤖 A curious guy at my core: costantly reading about stuff and searching other things
