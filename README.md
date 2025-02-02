@@ -78,8 +78,8 @@
 
 ## ⚡ Fun Facts
    - 🤖 A curious guy at my core: costantly reading about stuff and searching other things
-   - 🗺️ Living in Padua, coming from the mystical Serravalle (Ferrara), born in Bologna - Italian at my core
-   - 📕 Passionate writer and poetry lover
+   - 🗺️ Living in Padua, coming from the mystical Serravalle (Ferrara), born in Bologna - "misto mare/ibrido Toyota" at my core
+   - 📕 Passionate writer and poetry lover - in love with deep conversations and generally introspection-oriented: deepness is better
    - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until bachelor college colleagues)
    - 🆘 Helping also old people or people not confident with PCs to gain knowledge about basic usage of systems and problem solver
    - 🎼 Music lover (especially funk and black music, in love with some drums)
