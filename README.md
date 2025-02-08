@@ -77,7 +77,7 @@
 - Bronze medals and a cup in interregional karate competitions (FIJLKAM)
 
 ## ⚡ Fun Facts
-   - 🤖 A curious guy at my core: costantly reading about stuff and searching other things
+   - 🤖 A curious and hard-working guy at my core: costantly reading about stuff, learning new things out of passion (and craziness), while definitely not getting bored
    - 🗺️ Living in Padua, coming from the mystical Serravalle (Ferrara), born in Bologna - "misto mare/ibrido Toyota" at my core
    - 📕 Passionate writer and poetry lover - in love with deep conversations and generally introspection-oriented: deepness is better
    - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until bachelor college colleagues)
@@ -91,6 +91,7 @@
    - 🚴‍♂️ Love some bicycle around
    - 🚶‍♂️ I'm the Forrest Gump of walking: it's my evening pastime after studying/working all day long
    - 🤓 Knowledge enthusiast and Wikipedia/Wikimedia Foundation collaborator
+   - 🧠 Not a mystical-toxic Linux guy who wants to tell you he uses Arch btw - used multiple Linux distros but using Windows I'm sorry. There's also ordinary people round here. Go somewhere else for more spectacular things. Quality of a computer scientist is in its reasonings and determinations, not the software he uses.
 
 --- 
 
