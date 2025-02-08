@@ -71,8 +71,8 @@
 
 ## 🏆 Achievements
 
-- Awarded as one of the best 50 STEM Students in all of UniPD in 2023-2024 (only one of Computer Science M.Sc.) by merit - 39th
-- Second Place in the "Accattivante ed Accessibile" Competition about web accessibility creation (12/2022)
+- Awarded as one of the best 50 STEM Students in all of UniPD in 2024-2025 (only one of Computer Science M.Sc. - done w.r.t. 2023-2024) by merit - 39th out of the first 300
+- Second Place in the "Accattivante ed Accessibile" Competition about accessibility website creation - PopTech (12/2022)
 - Multiple Academic Merit Scholarships between High School and University (4 to count)
 - Bronze medals and a cup in interregional karate competitions (FIJLKAM)
 
