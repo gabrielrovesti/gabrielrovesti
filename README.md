@@ -79,18 +79,18 @@
 ## ⚡ Fun Facts
    - 🤖 A curious and hard-working guy at my core: costantly reading about stuff, learning new things out of passion (and craziness), while definitely not getting bored
    - 🗺️ Living in Padua, coming from the mystical Serravalle (Ferrara), born in Bologna - "misto mare/ibrido Toyota" at my core
-   - 📕 Passionate writer and poetry lover - in love with deep conversations and generally introspection-oriented: deepness is better
-   - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary up until bachelor college colleagues)
+   - 📕 Passionate writer and poetry lover - in love with deep conversations and generally introspection-oriented: deepness is better than shallowness
+   - 💻 CS Enthusiast, love learning and teaching (currently teaching a lot from elementary school up until bachelor college colleagues - years of experience as Inclusion Tutor/Didactic Tutor in B.Sc. and M.Sc and Coordinator tutor + documented experiences with DSA/BES/autism)
    - 🆘 Helping also old people or people not confident with PCs to gain knowledge about basic usage of systems and problem solver
-   - 🎼 Music lover (especially funk and black music, in love with some drums)
+   - 🎼 Music lover (especially funk and black music, in love with some drumming, my favorite instrument)
    - 🕺 Moonwalker and Michael Jackson fan
    - 🎮 Game design enthusiast, retro gamer, and fan of gaming in general
-   - 🎨 Art and details lover
-   - 🥋 Karateka for many years
-   - 👨‍🎤 I love singing and making some beats vocally
-   - 🚴‍♂️ Love some bicycle around
-   - 🚶‍♂️ I'm the Forrest Gump of walking: it's my evening pastime after studying/working all day long
-   - 🤓 Knowledge enthusiast and Wikipedia/Wikimedia Foundation collaborator
+   - 🎨 Art and details lover - in general, whatever has some kind of spark or individuality, is something I'm looking for.
+   - 🥋 Karateka for many years - currently a brown belt
+   - 👨‍🎤 I love singing and making some beats vocally - would love for music production
+   - 🚴‍♂️ Love some bicycle around - coming from Ferrara, the city of bicycles (and umarells)
+   - 🚶‍♂️ I'm the Forrest Gump of walking: it's my evening pastime after studying/working all day long (most of the times)
+   - 🤓 Knowledge enthusiast and Wikipedia/Wikimedia Foundation collaborator (written articles/paragraphs on Computer Science Theory)
    - 🧠 Not a mystical-toxic Linux guy who wants to tell you he uses Arch btw - used multiple Linux distros but using Windows I'm sorry. There's also ordinary people round here. Go somewhere else for more spectacular things. Quality of a computer scientist is in its reasonings and determinations, not the software he uses.
 
 --- 
