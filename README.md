@@ -75,6 +75,7 @@
 - Second Place in the "Accattivante ed Accessibile" Competition about accessibility website creation - PopTech (12/2022)
 - Multiple Academic Merit Scholarships between High School and University (4 to count)
 - Bronze medals and a cup in interregional karate competitions (FIJLKAM)
+- Just a random fact: in the top 50/100 of commits in Italy in my college years
 
 ## ⚡ Fun Facts
    - 🤖 A curious and hard-working guy at my core: costantly reading about stuff, learning new things out of passion (and craziness), while definitely not getting bored
