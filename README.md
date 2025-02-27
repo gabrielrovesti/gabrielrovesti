@@ -10,8 +10,6 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/gabrielrovesti/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCx8SzP2AT3q9EpsoQnA1rOg)
 
-<img src="https://komarev.com/ghpvc/?username=gabrielrovesti&style=flat-square&color=blue" alt="Profile views"/>
-
 </div>
 
 <div align="center">
@@ -30,39 +28,61 @@
 
 <div align="center">
   <a href="https://github.com/gabrielrovesti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
   
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielrovesti&theme=tokyonight" alt="gabrielrovesti's streak"/>
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielrovesti&theme=tokyonight" />
 </div>
 
 ## 🚀 Highlighted Projects
 
-<div align="center">
-<!-- Project 1: VerifiedMovies -->
-<a href="https://github.com/gabrielrovesti/VerifiedMovies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=VerifiedMovies&theme=tokyonight" />
-</a>
-<!-- Project 2: Circuit Board Drilling Optimization -->
-<a href="https://github.com/gabrielrovesti/PCB-Drilling-Optimization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=PCB-Drilling-Optimization&theme=tokyonight" />
-</a>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-<!-- Project 3: PLA Bluetooth Environment -->
-<a href="https://github.com/gabrielrovesti/PLA-Bluetooth-Environment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=PLA-Bluetooth-Environment&theme=tokyonight" />
-</a>
-<!-- Project 4: DocHub -->
-<a href="https://github.com/gabrielrovesti/DocHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=DocHub&theme=tokyonight" />
-</a>
-</div>
+<table align="center" border="0">
+  <tr border="0">
+    <td>
+      <div align="center">
+        <h3>VerifiedMovies</h3>
+        <p>My Sync Lab Project implementation using W3C DID, VC, VP with SSI and ZKP all in one package.</p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <a href="https://github.com/gabrielrovesti/VerifiedMovies">
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=VerifiedMovies&theme=tokyonight" />
+        </a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <h3>PLA-Bluetooth-Environment</h3>
+        <p>A repo for the project of the course of Advanced Topics in Computer and Network Security, UniPD M.Sc. Computer Science.</p>
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+        <a href="https://github.com/gabrielrovesti/PLA-Bluetooth-Environment">
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=PLA-Bluetooth-Environment&theme=tokyonight" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr border="0">
+    <td>
+      <div align="center">
+        <h3>Circuit Board Drilling Optimization</h3>
+        <p>Implementation of exact (CPLEX) and metaheuristic (Tabu Search) approaches for optimizing PCB drilling sequences.</p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+        <a href="https://github.com/gabrielrovesti/PCB-Drilling-Optimization">
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=PCB-Drilling-Optimization&theme=tokyonight" />
+        </a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <h3>DocHub</h3>
+        <p>A project for the Startup in ICT course - MSc Computer Science - Università degli Studi di Padova.</p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <a href="https://github.com/gabrielrovesti/DocHub">
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=DocHub&theme=tokyonight" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 📋 Recent Projects
 
