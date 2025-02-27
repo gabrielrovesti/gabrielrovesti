@@ -1,5 +1,8 @@
 # <h1 align="center">Hi 👋, I'm Gabriel!</h1>
-<h3 align="center">Computer Science M.Sc. Degree Student in Major in Internet Mobile and Security, Inclusion Tutor and Didactic Tutor at UniPD, High School Teacher: the best is yet to come.</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Tutor+and+Teacher;Full-Stack+Developer;Always+Learning" alt="Typing SVG" />
+</div>
 
 <div align="center">
  
@@ -35,56 +38,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielrovesti&theme=tokyonight" alt="gabrielrovesti's streak"/>
 </div>
 
-## 🚀 Highlighted Projects
-
-<table align="center" border="0">
-  <tr border="0">
-    <td>
-      <div align="center">
-        <h3>VerifiedMovies</h3>
-        <p>My Sync Lab Project implementation using W3C DID, VC, VP with SSI and ZKP all in one package.</p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <a href="https://github.com/gabrielrovesti/VerifiedMovies">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=VerifiedMovies&theme=tokyonight" />
-        </a>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <h3>PLA-Bluetooth-Environment</h3>
-        <p>A repo for the project of the course of Advanced Topics in Computer and Network Security, UniPD M.Sc. Computer Science.</p>
-        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-        <a href="https://github.com/gabrielrovesti/PLA-Bluetooth-Environment">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=PLA-Bluetooth-Environment&theme=tokyonight" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr border="0">
-    <td>
-      <div align="center">
-        <h3>Circuit Board Drilling Optimization</h3>
-        <p>Implementation of exact (CPLEX) and metaheuristic (Tabu Search) approaches for optimizing PCB drilling sequences.</p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-        <a href="https://github.com/gabrielrovesti/PCB-Drilling-Optimization">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=PCB-Drilling-Optimization&theme=tokyonight" />
-        </a>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <h3>DocHub</h3>
-        <p>A project for the Startup in ICT course - MSc Computer Science - Università degli Studi di Padova.</p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <a href="https://github.com/gabrielrovesti/DocHub">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=DocHub&theme=tokyonight" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 📋 Recent Projects
+## 🚀 Projects
 
 - **Circuit Board Drilling Optimization** (10/2024 - 01/2025): Implementation and comparison of exact (CPLEX) and metaheuristic (Tabu Search) approaches for optimizing PCB drilling sequences, achieving up to 84% efficiency improvement.
 - **IT Service Management - Bank Decommissioning** (06/2024 - 09/2024): Documentation and plans for IT Service Management decommissioning project for NDB, focusing on connectivity services transition using ITIL v4 framework.
@@ -92,6 +46,12 @@
 - **DocHub** (04/2024 - 07/2024): Startup simulation project for simplifying digital document retrieval in Italy.
 - **NIST CSF Security Report** (04/2024 - 06/2024): Comprehensive evaluation report of NIST Cybersecurity Framework 2.0 for healthcare systems.
 - **PLA Bluetooth Environment** (12/2023 - 06/2024): Advanced security project focusing on physical layer authentication for Bluetooth wireless channels.
+- **Web Information Management** (11/2023 - 01/2024): Usability analysis of University of Padua website following web design principles.
+- **Il Gomitolo delle Magie - La Fattoria al Laghetto** (05/2023 - 11/2023): WordPress websites development for organizations.
+- **Translatify** (10/2022 - 06/2023): Multi-tenant translation platform for simultaneous online content translation.
+- **VerifiedMovies** (03/2023 - 06/2023): Blockchain project for authentication based on Verifiable Credentials and Zero Knowledge Proof.
+- **Fog Festival** (03/2022 - 05/2022): Database management system for a music festival using SQL, PostgreSQL, and C++.
+- **Qt Charts CR** (09/2020 - 02/2021): Application for visualizing charts and managing JSON and XML data using Qt framework.
 
 ## 🏆 Achievements
 
@@ -122,6 +82,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Tutor+and+Teacher;Full-Stack+Developer;Always+Learning" alt="Typing SVG" />
-</div>
+
