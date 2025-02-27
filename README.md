@@ -34,8 +34,6 @@
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielrovesti&theme=tokyonight" alt="gabrielrovesti's streak"/>
 </div>
 
 ## 🚀 Projects
