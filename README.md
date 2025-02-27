@@ -15,10 +15,6 @@
 
 </div>
 
-<div align="center">
-<i>M.Sc. Student in Computer Science • Tutor • Teacher • Full-stack Developer</i>
-</div>
-
 ## 💻 Languages, Frameworks and Tools
 
 <div align="center">
