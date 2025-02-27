@@ -19,7 +19,7 @@
 <i>M.Sc. Student in Computer Science • Tutor • Teacher • Full-stack Developer</i>
 </div>
 
-## 💻 Languages and Tools
+## 💻 Languages, Frameworks and Tools
 
 <div align="center">
 
@@ -77,6 +77,11 @@
 - 🎮 Game design enthusiast, retro gamer, and fan of gaming in general
 - 🎨 Art and details lover - in general, whatever has some kind of spark or individuality, is something I'm looking for.
 - 🥋 Karateka for many years - currently a brown belt
+- 👨‍🎤 I love singing and making some beats vocally - would love for music production
+- 🚴‍♂️ Love some bicycle around - coming from Ferrara, the city of bicycles (and umarells)
+- 🚶‍♂️ I'm the Forrest Gump of walking: it's my evening pastime after studying/working all day long (most of the times)
+- 🤓 Knowledge enthusiast and Wikipedia/Wikimedia Foundation collaborator (written articles/paragraphs on Computer Science Theory)
+- 🧠 Not a mystical-toxic Linux guy who wants to tell you he uses Arch btw - used multiple Linux distros but using Windows I'm sorry. There's also ordinary people round here. Go somewhere else for more spectacular things. Quality of a computer scientist is in its reasonings and determinations, not the software he uses.
 
 ---
 
