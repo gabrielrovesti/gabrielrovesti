@@ -33,8 +33,8 @@
 </div>
 
 ## 🚀 Projects
-
-- **FlutterRustImageFX** (03/2025): Cross-platform photo editing application with image filters powered by Rust and Flutter. Implemented adaptive architecture to support both WebAssembly for mobile/web and native processing for desktop platforms.
+- **SystemFX**: Stream Processing Framework (03/2025): Advanced F# framework for functional data stream processing with pure functional stream manipulation and asynchronous runtime processing.
+- **FlutterRustImageFX** (02/2025 - 03/2025): Cross-platform photo editing application with image filters powered by Rust and Flutter. Implemented adaptive architecture to support both WebAssembly for mobile/web and native processing for desktop platforms.
 - **Circuit Board Drilling Optimization** (10/2024 - 01/2025): Implementation and comparison of exact (CPLEX) and metaheuristic (Tabu Search) approaches for optimizing PCB drilling sequences, achieving up to 84% efficiency improvement.
 - **IT Service Management - Bank Decommissioning** (06/2024 - 09/2024): Documentation and plans for IT Service Management decommissioning project for NDB, focusing on connectivity services transition using ITIL v4 framework.
 - **UAV Route Planning Strategies** (07/2024 - 09/2024): Comprehensive research on UAV route planning strategies for efficient coverage search in complex environments.
