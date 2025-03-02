@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php,cs,rust,solidity,latex,arduino,matlab,kotlin,dart,html,css,react,angular,wordpress,mysql,postgres,aws,qt,androidstudio,dotnet,flutter,docker,jenkins,ansible,googlecloud,vscode,visualstudio,bash,md)](https://github.com/gabrielrovesti)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php,cs,rust,solidity,latex,arduino,matlab,kotlin,dart,html,css,react,angular,wordpress,mysql,postgres,aws,qt,androidstudio,dotnet,flutter,docker,jenkins,ansible,googlecloud,vscode,visualstudio,bash,md, sql)](https://github.com/gabrielrovesti)
 
 </div>
 
