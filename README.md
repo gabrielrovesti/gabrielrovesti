@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php,cs,rust,solidity,latex,arduino,matlab,kotlin,dart,html,css,react,angular,wordpress,mysql,postgres,aws,qt,androidstudio,dotnet,flutter,docker,jenkins,ansible,googlecloud,vscode,visualstudio,bash,md,sql)](https://github.com/gabrielrovesti)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php,cs,rust,solidity,latex,arduino,matlab,kotlin,dart,html,css,react,angular,wordpress,mysql,postgres,aws,qt,androidstudio,dotnet,flutter,docker,jenkins,ansible,googlecloud,vscode,visualstudio,bash,md,wasm,graphql)](https://github.com/gabrielrovesti)
 
 </div>
 
@@ -34,6 +34,7 @@
 
 ## 🚀 Projects
 
+- **FlutterRustImageFX** (03/2025): Cross-platform photo editing application with image filters powered by Rust and Flutter. Implemented adaptive architecture to support both WebAssembly for mobile/web and native processing for desktop platforms.
 - **Circuit Board Drilling Optimization** (10/2024 - 01/2025): Implementation and comparison of exact (CPLEX) and metaheuristic (Tabu Search) approaches for optimizing PCB drilling sequences, achieving up to 84% efficiency improvement.
 - **IT Service Management - Bank Decommissioning** (06/2024 - 09/2024): Documentation and plans for IT Service Management decommissioning project for NDB, focusing on connectivity services transition using ITIL v4 framework.
 - **UAV Route Planning Strategies** (07/2024 - 09/2024): Comprehensive research on UAV route planning strategies for efficient coverage search in complex environments.
