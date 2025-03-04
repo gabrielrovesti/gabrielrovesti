@@ -80,6 +80,10 @@
 - 🤓 Knowledge enthusiast and Wikipedia/Wikimedia Foundation collaborator (written articles/paragraphs on Computer Science Theory)
 - 🧠 Not a mystical-toxic Linux guy who wants to tell you he uses Arch btw - used multiple Linux distros but using Windows I'm sorry. There's also ordinary people round here. Go somewhere else for more spectacular things. Quality of a computer scientist is in its reasonings and determinations, not the software he uses.
 
+<div align="center">
+<a href="https://github.com/gabrielrovesti?tab=repositories"><img src="assets/snake.svg" alt="snake"></a>
+</div>
+
 ---
 
 
