@@ -33,6 +33,7 @@
 </div>
 
 ## 🚀 Projects
+- **Event Analyzer** (03/2025): Reactive Real-time Event Processing System developed with Spring WebFlux, MongoDB, and Redis. Implemented reactive programming patterns, optimized caching strategies, and designed a scalable architecture for high-throughput event ingestion and analytics with robust security features.
 - **SystemFX**: Stream Processing Framework (03/2025): Advanced F# framework for functional data stream processing with pure functional stream manipulation and asynchronous runtime processing.
 - **FlutterRustImageFX** (02/2025 - 03/2025): Cross-platform photo editing application with image filters powered by Rust and Flutter. Implemented adaptive architecture to support both WebAssembly for mobile/web and native processing for desktop platforms.
 - **Circuit Board Drilling Optimization** (10/2024 - 01/2025): Implementation and comparison of exact (CPLEX) and metaheuristic (Tabu Search) approaches for optimizing PCB drilling sequences, achieving up to 84% efficiency improvement.
