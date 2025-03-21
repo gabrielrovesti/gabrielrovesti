@@ -27,11 +27,13 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd3Z3owa2wybHQ4cG04ank1d2p4dDFibDlkMG5yZGRlaWs3bmVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I craft robust, scalable solutions from reactive systems to blockchain security—always with my distinctive approach. Combining technical expertise with an eye for artistic detail, I excel at solving complex problems while creating intuitive user experiences. My journey spans leading diverse development teams, where my meticulous attention to code quality and efficiency consistently delivers exceptional results.
+I craft robust, scalable solutions from reactive systems to blockchain security—always with my distinctive approach.
+
+Combining technical expertise with an eye for artistic detail, I excel at solving complex problems while creating intuitive user experiences. My journey spans leading diverse development teams, where my meticulous attention to code quality and efficiency consistently delivers exceptional results.
 
 Game design and UX fascinate me, influencing how I approach every project with creativity and precision. Despite juggling multiple responsibilities, I've mastered the art of agile time management—transforming productivity into a personal superpower.
 
-My greatest passion remains teaching, where I've spent the past 9 years working with an extraordinary range of learners—from those with specific learning challenges to university students in lecture halls. This unique combination of technical depth, creative thinking, and educational dedication makes my approach truly one of a kind. As I am.
+My greatest passion remains teaching, where I've spent the past 9 years working with an extraordinary range of learners—from those with specific learning challenges to university students in lecture halls. This unique combination of technical depth, creative thinking, and educational dedication makes my approach truly one of a kind.
 
 ### Focus Areas:
 - 🔐 Cybersecurity & Cloud Computing
