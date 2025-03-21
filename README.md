@@ -17,6 +17,7 @@
     <li><a href="#-about-me">About Me</a></li>
     <li><a href="#-tech-stack">Tech Stack</a></li>
     <li><a href="#-projects">Projects</a></li>
+    <li><a href="#-github-stats">GitHub Stats</a></li>
     <li><a href="#-education">Education</a></li>
     <li><a href="#-achievements">Achievements</a></li>
     <li><a href="#-fun-facts">Fun Facts</a></li>
@@ -114,15 +115,61 @@ From reactive systems to blockchain-based security, I build robust, scalable, an
 </table>
 
 <details>
-  <summary>🔍 Altri progetti</summary>
-  
-  - **IT Service Management - Bank Decommissioning** (06/2024 - 09/2024): Documentation and plans for IT Service Management decommissioning project using ITIL v4 framework.
-  - **UAV Route Planning Strategies** (07/2024 - 09/2024): Comprehensive research on UAV route planning strategies for efficient coverage search.
-  - **DocHub** (04/2024 - 07/2024): Startup simulation project for simplifying digital document retrieval in Italy.
-  - **NIST CSF Security Report** (04/2024 - 06/2024): Evaluation report of NIST Cybersecurity Framework 2.0 for healthcare systems.
-  - **PLA Bluetooth Environment** (12/2023 - 06/2024): Security project focusing on physical layer authentication for Bluetooth.
-  - **VerifiedMovies** (03/2023 - 06/2023): Blockchain project for authentication based on Verifiable Credentials and Zero Knowledge Proof.
-  - **Fog Festival** (03/2022 - 05/2022): Database management system for a music festival using SQL, PostgreSQL, and C++.
+  <summary>🔍 More Projects</summary>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>IT Service Management</h3>
+        <a href="https://github.com/gabrielrovesti/ITSM-Decommissioning-Project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=ITSM-Decommissioning-Project&theme=tokyonight" width="100%" alt="ITSM Project"/>
+        </a>
+        <p><strong>Bank Decommissioning Project</strong></p>
+        <p>Documentation and plans using ITIL v4 framework</p>
+        <p>
+          <img src="https://img.shields.io/badge/ITIL-00338D?style=flat-square&logo=itil&logoColor=white" alt="ITIL"/>
+          <img src="https://img.shields.io/badge/Project_Management-4A154B?style=flat-square&logo=asana&logoColor=white" alt="PM"/>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>UAV Route Planning</h3>
+        <a href="https://github.com/gabrielrovesti/WNMA-UAV-Route-Planning-Survey">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=WNMA-UAV-Route-Planning-Survey&theme=tokyonight" width="100%" alt="UAV Project"/>
+        </a>
+        <p><strong>Strategies for Complex Environments</strong></p>
+        <p>Research on efficient coverage search algorithms</p>
+        <p>
+          <img src="https://img.shields.io/badge/Research-0052CC?style=flat-square&logo=read-the-docs&logoColor=white" alt="Research"/>
+          <img src="https://img.shields.io/badge/Algorithms-FFA116?style=flat-square&logo=codecademy&logoColor=white" alt="Algorithms"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>DocHub</h3>
+        <a href="https://github.com/gabrielrovesti/DocHub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=DocHub&theme=tokyonight" width="100%" alt="DocHub"/>
+        </a>
+        <p><strong>Digital Document Retrieval Platform</strong></p>
+        <p>Startup simulation project for document management</p>
+        <p>
+          <img src="https://img.shields.io/badge/Startup-000000?style=flat-square&logo=startrek&logoColor=white" alt="Startup"/>
+          <img src="https://img.shields.io/badge/Business_Model-F05032?style=flat-square&logo=buffer&logoColor=white" alt="Business Model"/>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Verified Movies</h3>
+        <a href="https://github.com/gabrielrovesti/VerifiedMovies">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=VerifiedMovies&theme=tokyonight" width="100%" alt="VerifiedMovies"/>
+        </a>
+        <p><strong>Blockchain Authentication</strong></p>
+        <p>Using Verifiable Credentials and Zero Knowledge Proofs</p>
+        <p>
+          <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain-dot-com&logoColor=white" alt="Blockchain"/>
+          <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3-dot-js&logoColor=white" alt="Web3"/>
+        </p>
+      </td>
+    </tr>
+  </table>
 </details>
 
 ## 📊 GitHub Stats
