@@ -42,7 +42,7 @@ Despite juggling multiple responsibilities, I've mastered the art of agile time 
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php,cs,rust,solidity,fsharp,kotlin,dart,matlab,octave,latex,bash,arduino" alt="Programming Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php,cs,rust,solidity,kotlin,dart,matlab,octave,latex,bash,arduino" alt="Programming Languages" /><br/>
   
   <h3>Frontend</h3>
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,angular,wordpress,flutter,qt,ruby" alt="Frontend Technologies" /><br/>
