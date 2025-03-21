@@ -42,16 +42,24 @@ Despite juggling multiple responsibilities, I've mastered the art of agile time 
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php,cs,rust,solidity,fsharp" alt="Programming Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php,cs,rust,solidity,fsharp,kotlin,dart,matlab,octave,latex,bash,arduino" alt="Programming Languages" /><br/>
   
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,angular,wordpress" alt="Frontend Technologies" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,angular,wordpress,flutter,qt,ruby" alt="Frontend Technologies" /><br/>
   
   <h3>Backend & Data</h3>
   <img src="https://skillicons.dev/icons?i=spring,dotnet,mysql,postgres,mongodb,redis,graphql" alt="Backend Technologies" /><br/>
   
   <h3>DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,ansible,aws,gcp,heroku,netlify,git" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,ansible,aws,gcp,heroku,netlify,git,gitlab" alt="DevOps Tools" />
+  
+  <h3>Languages Spoken</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Italian-C2-3CB371?style=flat-square" alt="Italian C2"/>
+    <img src="https://img.shields.io/badge/English-C1-3B82F6?style=flat-square" alt="English C1"/>
+    <img src="https://img.shields.io/badge/French-B1-4F46E5?style=flat-square" alt="French B1"/>
+    <img src="https://img.shields.io/badge/Spanish-A2-EC4899?style=flat-square" alt="Spanish A2"/>
+  </p>
 </div>
 
 ## 🚀 Projects
