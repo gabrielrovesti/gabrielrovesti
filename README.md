@@ -1,12 +1,8 @@
-# Gabriel Rovesti
-
 <div align="center">
-  <!-- Banner più compatto -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Gabriel%20Rovesti&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Computer%20Science%20MSc%20|%20Teacher&descAlignY=62&descAlign=50" width="100%"/>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E42C1&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Tutor+and+Teacher;Full-Stack+Developer;Always+Learning" alt="Typing SVG" />
   
-  <!-- Badge social diretti (più compatti) -->
   <p>
     <a href="https://www.linkedin.com/in/gabriel-rovesti-601404220/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:rovestigabriel@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
@@ -15,9 +11,8 @@
   </p>
 </div>
 
-<!-- Sommario compatto e collassato per default -->
 <details>
-  <summary>📋 Indice</summary>
+  <summary>📋 Table of Contents</summary>
   <ul>
     <li><a href="#-about-me">About Me</a></li>
     <li><a href="#-tech-stack">Tech Stack</a></li>
