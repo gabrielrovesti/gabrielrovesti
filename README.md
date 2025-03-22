@@ -182,7 +182,7 @@ Despite juggling multiple responsibilities, I've mastered the art of agile time 
       <a href="https://github.com/gabrielrovesti/PredictSense">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=PredictSense&theme=tokyonight" width="100%" alt="PredictSense"/>
       </a>
-      <p><strong>Anomaly Detection System con Machine Learning</strong></p>
+      <p><strong>Anomaly Detection System with Machine Learning</strong></p>
       <p>Microservices architecture con ML, FastAPI, Streamlit and asynchronous communication</p>
       <p>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
