@@ -241,14 +241,14 @@ Despite juggling multiple responsibilities, I've mastered the art of agile time 
         <li>🗺️ Living in Padua, from Serravalle (Ferrara), born in Bologna</li>
         <li>📕 Passionate writer and poetry lover - depth over shallowness</li>
         <li>💻 CS Enthusiast with experience teaching diverse students</li>
-        <li>🕺 Moonwalker and Michael Jackson fan</li>
+        <li>🕺 Big music lover (musicophile), in love with funk/black music - MJ fan to the core </li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-        <li>🎮 Game design enthusiast and retro gamer</li>
-        <li>🎨 Art and details lover - drawn to unique creativity</li>
-        <li>🥋 Karateka with a brown belt</li>
+        <li>🎮 Game design enthusiast, retro gamer</li>
+        <li>🎨 Art and details lover - drawn to unique creativity and sparks of uniqueness</li>
+        <li>🥋 Karateka with a brown belt (9 years Shotokan style) </li>
         <li>🚴‍♂️ Cycling enthusiast from Ferrara, "city of bicycles"</li>
         <li>🚶‍♂️ "Forrest Gump of walking" - evening pastime after work</li>
       </ul>
