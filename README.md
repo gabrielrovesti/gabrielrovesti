@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Gabriel%20Rovesti&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Computer%20Science%20M.Sc.%20Student%20|%20Teacher%20|%20Tutor&descAlignY=62&descAlign=50" width="100%"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E42C1&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Tutor+and+Teacher;Full-Stack+Developer;Always+Learning" alt="Typing SVG" />
   
   <p>
     <a href="https://www.linkedin.com/in/gabriel-rovesti-601404220/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -27,9 +26,9 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd3Z3owa2wybHQ4cG04ank1d2p4dDFibDlkMG5yZGRlaWs3bmVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Combining technical expertise with an eye for artistic detail, I excel at solving complex problems while creating intuitive user experiences. My journey spans leading diverse development teams, where my meticulous attention to code quality and efficiency consistently delivers exceptional results.
+Combining technical expertise with an eye for artistic detail, I excel at solving complex problems while creating intuitive user experiences. My journey spans leading diverse development teams, where my meticulous attention to code quality and efficiency consistently delivers well-crafted results.
 
-Despite juggling multiple responsibilities, I've mastered the art of agile time management—transforming productivity into a personal superpower. My greatest passion remains teaching, where I've spent the past 9 years working with an extraordinary range of learners—from those with specific learning challenges to university students in lecture halls.
+Despite juggling multiple responsibilities, I've mastered the art of agile time management—transforming productivity into a personal superpower, basically inventing time. My greatest passion remains teaching, where I've spent the past 9 years working with a very vast range of learners — from those with specific learning challenges to university students in lecture halls.
 
 ### Focus Areas:
 - 🔐 Cybersecurity & Cloud Computing
