@@ -211,7 +211,7 @@ Despite juggling multiple responsibilities, I've mastered the art of agile time 
 <table>
   <tr>
     <td width="60px" align="center">🏆</td>
-    <td><strong>Top 50 STEM Students at UniPD</strong> - Awarded 39th place out of 300 students in 2024-2025</td>
+    <td><strong>Top 50 STEM Students at UniPD</strong> - Awarded 39th place out of 300 students in 2024-2025 (only one of M.Sc. in Computer Science)</td>
   </tr>
   <tr>
     <td align="center">🥈</td>
@@ -223,7 +223,7 @@ Despite juggling multiple responsibilities, I've mastered the art of agile time 
   </tr>
   <tr>
     <td align="center">🥉</td>
-    <td><strong>Bronze Medals in Karate</strong> - Bronze medals and a cup in interregional karate competitions (FIJLKAM)</td>
+    <td><strong>Several Medals in National Karate Competitions</strong> - Bronze medals and a cup in interregional karate competitions (FIJLKAM)</td>
   </tr>
   <tr>
     <td align="center">👨‍💻</td>
