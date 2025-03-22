@@ -47,7 +47,7 @@ Despite juggling multiple responsibilities, I've mastered the art of agile time 
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,angular,wordpress,flutter,qt,ruby" alt="Frontend Technologies" /><br/>
   
   <h3>Backend & Data</h3>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,mysql,postgres,mongodb,redis,graphql" alt="Backend Technologies" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,mysql,postgres,mongodb,redis,graphql,tensorflow,fastapi" alt="Backend Technologies" /><br/>
   
   <h3>DevOps & Tools</h3>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,ansible,aws,gcp,heroku,netlify,git,gitlab" alt="DevOps Tools" />
@@ -176,6 +176,22 @@ Despite juggling multiple responsibilities, I've mastered the art of agile time 
           <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3-dot-js&logoColor=white" alt="Web3"/>
         </p>
       </td>
+      <tr>
+    <td width="50%" valign="top">
+      <h3>PredictSense</h3>
+      <a href="https://github.com/gabrielrovesti/PredictSense">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=PredictSense&theme=tokyonight" width="100%" alt="PredictSense"/>
+      </a>
+      <p><strong>Anomaly Detection System con Machine Learning</strong></p>
+      <p>Microservices architecture con ML, FastAPI, Streamlit and asynchronous communication</p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      </p>
+    </td>
+  </tr>
     </tr>
   </table>
 </details>
