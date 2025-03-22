@@ -211,7 +211,7 @@ Despite juggling multiple responsibilities, I've mastered the art of agile time 
 <table>
   <tr>
     <td width="60px" align="center">🏆</td>
-    <td><strong>Top 50 STEM Students at UniPD</strong> - Awarded 39th place out of 300 students in 2024-2025 (only one of M.Sc. in Computer Science)</td>
+    <td><strong>Top 50 STEM Students at UniPD</strong> - Awarded 39th place out of 300 students in 2024-2025 (only one of M.Sc. in Computer Science) - Scientific Degrees Grant</td>
   </tr>
   <tr>
     <td align="center">🥈</td>
@@ -219,7 +219,7 @@ Despite juggling multiple responsibilities, I've mastered the art of agile time 
   </tr>
   <tr>
     <td align="center">🎓</td>
-    <td><strong>Multiple Academic Merit Scholarships</strong> - Four scholarships between High School and University</td>
+    <td><strong>Multiple Academic Merit Scholarships</strong> - Four scholarships between High School and University (2 Fondazione Carlo Bocchi, 1 Regione Emilia Romagna, 1 from UniPD)</td>
   </tr>
   <tr>
     <td align="center">🥉</td>
