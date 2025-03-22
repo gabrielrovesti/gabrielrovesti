@@ -219,7 +219,7 @@ Despite juggling multiple responsibilities, I've mastered the art of agile time 
   </tr>
   <tr>
     <td align="center">🎓</td>
-    <td><strong>Multiple Academic Merit Scholarships</strong> - Four scholarships between High School and University (2 Fondazione Carlo Bocchi, 1 Regione Emilia Romagna, 1 from UniPD)</td>
+    <td><strong>Multiple Academic Merit Scholarships</strong> - Four scholarships between High School and University (2 from Fondazione Carlo Bocchi, 1 from Regione Emilia Romagna, 1 from UniPD)</td>
   </tr>
   <tr>
     <td align="center">🥉</td>
