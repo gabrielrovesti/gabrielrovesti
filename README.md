@@ -1,13 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Gabriel%20Rovesti&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Computer%20Science%20M.Sc.%20Student%20|%20Teacher%20|%20Tutor&descAlignY=62&descAlign=50" width="100%"/>
-  
-  
-  <p>
-    <a href="https://www.linkedin.com/in/gabriel-rovesti-601404220/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:rovestigabriel@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://www.instagram.com/grovesti1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  </p>
-</div>
 
 <details>
   <summary>📋 Table of Contents</summary>
