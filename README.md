@@ -23,11 +23,11 @@ Combining technical expertise with an eye for artistic detail, I excel at solvin
 Despite juggling multiple responsibilities, I've mastered the art of agile time management—transforming productivity into a personal superpower. My greatest passion remains teaching, where I've spent the past 9 years working with a very vast range of learners — from those with specific learning challenges to university students in lecture halls.
 
 ### Focus Areas:
-- 🔐 Cybersecurity & Cloud Computing
-- 🚀 DevOps & CI/CD Pipelines
-- ⛓️ Blockchain & Decentralized Applications
-- 🏗️ Software Architecture & Engineering  
-- 👨‍🏫 Inclusive Teaching & Mentorship
+🔐 Cybersecurity & Cloud Computing
+🚀 DevOps & CI/CD Pipelines
+⛓️ Blockchain & Decentralized Applications
+🏗️ Software Architecture & Engineering  
+👨‍🏫 Inclusive Teaching & Mentorship
 
 ## 🛠 Tech Stack
 
