@@ -168,119 +168,87 @@
   </table>
 </details>
 
+<h2 align="center">📊 GitHub Stats & Achievements</h2>
+
+<div align="center">
+  <a href="https://github.com/gabrielrovesti">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+<h3 align="center">🏆 Notable Achievements</h3>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="180px">
+      <div style="font-size: 28px; margin-bottom: 10px;">🏆</div>
+      <div style="font-weight: bold;">Top 50 STEM Students</div>
+      <div style="font-size: 14px;">University of Padua</div>
+    </td>
+    <td align="center" width="180px">
+      <div style="font-size: 28px; margin-bottom: 10px;">🥈</div>
+      <div style="font-weight: bold;">Web Accessibility Competition</div>
+      <div style="font-size: 14px;">Runner-up</div>
+    </td>
+    <td align="center" width="180px">
+      <div style="font-size: 28px; margin-bottom: 10px;">🎓</div>
+      <div style="font-weight: bold;">Academic Merit Scholarships</div>
+      <div style="font-size: 14px;">Multiple Awards</div>
+    </td>
+    <td align="center" width="180px">
+      <div style="font-size: 28px; margin-bottom: 10px;">🥋</div>
+      <div style="font-weight: bold;">Karate Competitions</div>
+      <div style="font-size: 14px;">National Medals</div>
+    </td>
+    <td align="center" width="180px">
+      <div style="font-size: 28px; margin-bottom: 10px;">👨‍💻</div>
+      <div style="font-weight: bold;">Top GitHub Committer</div>
+      <div style="font-size: 14px;">Italy Ranking</div>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">🎓 Education & Certifications</h2>
 
 <table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Academic Qualifications</h3>
-      <div>
-        <div style="margin-bottom: 15px;">
+      <ul>
+        <li>
           <h4>M.Sc. Computer Science (2023-2025)</h4>
           <p>University of Padua<br>
           <i>Major: Internet, Mobile and Security</i><br>
           <i>Minor: Innovation and Entrepreneurship in ICT</i><br>
           <i>Extra activities: 100h Tutor Inclusion, 60h Teaching Tutor</i></p>
-        </div>
-        
-        <div style="margin-bottom: 15px;">
+        </li>
+        <li>
           <h4>B.Sc. Computer Science (2020-2023)</h4>
           <p>University of Padua<br>
           Grade: 98/110<br>
           <i>Thesis: VerifiedMovies - security and authentication using blockchain</i></p>
-        </div>
-        
-        <div>
-          <h4>Diploma in Computer Science 2015-2020)</h4>
+        </li>
+        <li>
+          <h4>Diploma in Computer Science (2015-2020)</h4>
           <p>I.I.S Polo Tecnico di Adria<br>
           Grade: 100/100</p>
-        </div>
-      </div>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Technical Certifications</h3>
-      <div>
-        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
-          <img src="https://img.shields.io/badge/Lightbend_Reactive-E25A1C?style=flat-square&logoColor=white" alt="Lightbend"/>
-        </span>
-        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
-          <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logoColor=white" alt="Cisco"/>
-        </span>
-        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
-          <img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logoColor=white" alt="Scrum"/>
-        </span>
-        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
-          <img src="https://img.shields.io/badge/Six_Sigma-FFBE00?style=flat-square&logoColor=black" alt="Six Sigma"/>
-        </span>
-        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
-          <img src="https://img.shields.io/badge/MATLAB-BB92AC?style=flat-square&logoColor=white" alt="MATLAB"/>
-        </span>
-        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
-          <img src="https://img.shields.io/badge/Cambridge_B2-012169?style=flat-square&logoColor=white" alt="Cambridge"/>
-        </span>
-        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
-          <img src="https://img.shields.io/badge/GESE_Trinity-0EB1D2?style=flat-square&logoColor=white" alt="Trinity"/>
-        </span>
-        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
-          <img src="https://img.shields.io/badge/Google_Marketing-4285F4?style=flat-square&logoColor=white" alt="Google"/>
-        </span>
+      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 10px;">
+        <img src="https://img.shields.io/badge/Lightbend_Reactive-E25A1C?style=for-the-badge&logoColor=white" alt="Lightbend"/>
+        <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco"/>
+        <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white" alt="Scrum"/>
+        <img src="https://img.shields.io/badge/Six_Sigma-FFBE00?style=for-the-badge&logoColor=black" alt="Six Sigma"/>
+        <img src="https://img.shields.io/badge/MATLAB-BB92AC?style=for-the-badge&logoColor=white" alt="MATLAB"/>
+        <img src="https://img.shields.io/badge/Cambridge_B2-012169?style=for-the-badge&logoColor=white" alt="Cambridge"/>
+        <img src="https://img.shields.io/badge/GESE_Trinity-0EB1D2?style=for-the-badge&logoColor=white" alt="Trinity"/>
+        <img src="https://img.shields.io/badge/Google_Marketing-4285F4?style=for-the-badge&logoColor=white" alt="Google"/>
+        <img src="https://img.shields.io/badge/Hubspot-FF7A59?style=for-the-badge&logoColor=white" alt="Hubspot"/>
       </div>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">📊 GitHub Stats & Achievements</h2>
-
-<div align="center" style="margin-bottom: 30px;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
-
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <h3>🏆 Notable Achievements</h3>
-      <table border="0">
-        <tr>
-          <td width="60px" align="center">🏆</td>
-          <td><strong>Top 50 STEM Students at UniPD</strong> - Ranked 39th place out of 300 students in 2024-2025 (only one from M.Sc. in Computer Science)</td>
-        </tr>
-        <tr>
-          <td align="center">🥈</td>
-          <td><strong>Runner-up in "Accattivante ed Accessibile" Competition</strong> - Web accessibility design competition (12/2022)</td>
-        </tr>
-        <tr>
-          <td align="center">🎓</td>
-          <td><strong>Multiple Academic Merit Scholarships</strong> - Four scholarships between High School and University (2 from Fondazione Carlo Bocchi, 1 from Regione Emilia Romagna, 1 from UniPD)</td>
-        </tr>
-        <tr>
-          <td align="center">🥋</td>
-          <td><strong>Several Medals in National Karate Competitions</strong> - Bronze medals and a cup in interregional karate competitions (FIJLKAM)</td>
-        </tr>
-        <tr>
-          <td align="center">👨‍💻</td>
-          <td><strong>Top GitHub Committer</strong> - In the top 50/100 of commits in Italy during college years</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">🔮 Currently Exploring</h2>
-
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="33%" style="padding: 15px;">
-      <h3>Blockchain & Web3</h3>
-      <p>Self-Sovereign Identity, Zero Knowledge Proofs, Decentralized Authentication</p>
-    </td>
-    <td align="center" width="33%" style="padding: 15px;">
-      <h3>Reactive Systems</h3>
-      <p>Event-driven architectures, Reactive programming patterns, Non-blocking I/O</p>
-    </td>
-    <td align="center" width="33%" style="padding: 15px;">
-      <h3>Mobile & IoT Security</h3>
-      <p>Wireless network security, Authentication protocols, Mobile application vulnerabilities</p>
     </td>
   </tr>
 </table>
@@ -289,52 +257,22 @@
 
 <table align="center" border="0">
   <tr>
-    <td width="50%" valign="top">
-      <ul style="list-style-type: none; padding: 0;">
-        <li style="display: flex; align-items: center; margin-bottom: 15px;">
-          <span style="font-size: 1.5rem; margin-right: 15px;">🤖</span>
-          <span>Curious and hard-working, constantly learning out of passion</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 15px;">
-          <span style="font-size: 1.5rem; margin-right: 15px;">🗺️</span>
-          <span>Currently living in Padua, from Serravalle (Ferrara), born in Bologna</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 15px;">
-          <span style="font-size: 1.5rem; margin-right: 15px;">📕</span>
-          <span>Passionate writer and poetry lover - depth over shallowness</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 15px;">
-          <span style="font-size: 1.5rem; margin-right: 15px;">💻</span>
-          <span>CS Enthusiast with experience teaching diverse students</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 15px;">
-          <span style="font-size: 1.5rem; margin-right: 15px;">🎵</span>
-          <span>Musicophile with love for funk/black music - Michael Jackson enthusiast</span>
-        </li>
+    <td width="50%">
+      <ul>
+        <li><b>🤖 Curious and hard-working</b>, constantly learning out of passion</li>
+        <li><b>🗺️ Currently living in Padua</b>, from Serravalle (Ferrara), born in Bologna</li>
+        <li><b>📕 Passionate writer and poetry lover</b> - depth over shallowness</li>
+        <li><b>💻 CS Enthusiast</b> with experience teaching diverse students</li>
+        <li><b>🎵 Musicophile</b> with love for funk/black music - Michael Jackson enthusiast</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <ul style="list-style-type: none; padding: 0;">
-        <li style="display: flex; align-items: center; margin-bottom: 15px;">
-          <span style="font-size: 1.5rem; margin-right: 15px;">🎮</span>
-          <span>Game design enthusiast and retro gamer</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 15px;">
-          <span style="font-size: 1.5rem; margin-right: 15px;">🎨</span>
-          <span>Art lover drawn to unique creativity and attention to detail</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 15px;">
-          <span style="font-size: 1.5rem; margin-right: 15px;">🥋</span>
-          <span>Karateka with a brown belt (9 years Shotokan style)</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 15px;">
-          <span style="font-size: 1.5rem; margin-right: 15px;">🚴‍♂️</span>
-          <span>Cycling enthusiast from Ferrara, "city of bicycles"</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 15px;">
-          <span style="font-size: 1.5rem; margin-right: 15px;">🚶‍♂️</span>
-          <span>"Forrest Gump of walking" - evening pastime after work</span>
-        </li>
+    <td width="50%">
+      <ul>
+        <li><b>🎮 Game design enthusiast</b> and retro gamer</li>
+        <li><b>🎨 Art lover</b> drawn to unique creativity and attention to detail</li>
+        <li><b>🥋 Karateka</b> with a brown belt (9 years Shotokan style)</li>
+        <li><b>🚴‍♂️ Cycling enthusiast</b> from Ferrara, "city of bicycles"</li>
+        <li><b>🚶‍♂️ "Forrest Gump of walking"</b> - evening pastime after work</li>
       </ul>
     </td>
   </tr>
@@ -343,13 +281,15 @@
 <h2 align="center">📫 Let's Connect!</h2>
 
 <div align="center" style="margin-bottom: 30px;">
-  <a href="https://www.linkedin.com/in/gabriel-rovesti-601404220/" target="_blank" style="display: inline-block; margin: 0 10px; text-decoration: none;">
+  <a href="https://www.linkedin.com/in/gabriel-rovesti-601404220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:rovestigabriel@gmail.com" target="_blank" style="display: inline-block; margin: 0 10px; text-decoration: none;">
+  &nbsp;&nbsp;
+  <a href="mailto:rovestigabriel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/gabrielrovesti" target="_blank" style="display: inline-block; margin: 0 10px; text-decoration: none;">
+  &nbsp;&nbsp;
+  <a href="https://github.com/gabrielrovesti" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
