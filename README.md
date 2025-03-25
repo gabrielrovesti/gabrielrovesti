@@ -1,19 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Gabriel%20Rovesti&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Computer%20Science%20M.Sc.%20Student%20|%20Teacher%20|%20Tutor&descAlignY=62&descAlign=50" width="100%"/>
 
-<details>
-  <summary>📋 Table of Contents</summary>
-  <ul>
-    <li><a href="#-about-me">About Me</a></li>
-    <li><a href="#-tech-stack">Tech Stack</a></li>
-    <li><a href="#-projects">Projects</a></li>
-    <li><a href="#-github-stats">GitHub Stats</a></li>
-    <li><a href="#-education">Education</a></li>
-    <li><a href="#-achievements">Achievements</a></li>
-    <li><a href="#-fun-facts">Fun Facts</a></li>
-  </ul>
-</details>
-
 ## 🧠 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd3Z3owa2wybHQ4cG04ank1d2p4dDFibDlkMG5yZGRlaWs3bmVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
