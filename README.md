@@ -1,9 +1,7 @@
-<!-- Header with gradient and modern typography -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Gabriel%20Rovesti&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Lecturer%20|%20Computer%20Science%20M.Sc.%20Student%20|%20Tutor&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
-<!-- Two-column layout for About Me section -->
 <div align="center">
   <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd3Z3owa2wybHQ4cG04ank1d2p4dDFibDlkMG5yZGRlaWs3bmVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
   
@@ -15,7 +13,6 @@
   </div>
 </div>
 
-<!-- Focus Areas with icon grid -->
 <h3 align="center">Focus Areas</h3>
 <div align="center">
   <p>
@@ -27,7 +24,6 @@
   </p>
 </div>
 
-<!-- Tech Stack with visual icons -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <table align="center" border="0">
@@ -49,47 +45,40 @@
   </tr>
 </table>
 
-<!-- Professional Experience with modern card design -->
 <h2 align="center">🎯 Professional Experience</h2>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" style="padding:10px;">
-        <h3 align="center">Academic Positions</h3>
-        <div style="background-color:#1a1a2e; border-radius:8px; padding:15px;">
-          <p><b>🎓 Lecturer in Systems and Networks</b><br>ITIS Galileo Ferraris, Padua (09/2024 - 06/2025)</p>
-          <p><b>👨‍🏫 Coordination Tutor</b><br>University of Padua, Dept. of Mathematics (01/2025 - Present)</p>
-          <p><b>📚 Didactic Tutor, Automata & Formal Languages</b><br>University of Padua (01/2025 - Present)</p>
-          <p><b>🧮 Didactic Tutor, Computability Theory</b><br>University of Padua (09/2024 - 01/2025)</p>
-          <p><b>💻 Didactic Tutor, Object Oriented Programming</b><br>University of Padua (09/2023 - 02/2024)</p>
-        </div>
-      </td>
-      <td width="50%" style="padding:10px;">
-        <h3 align="center">Industry Experience</h3>
-        <div style="background-color:#1a1a2e; border-radius:8px; padding:15px;">
-          <p><b>⛓️ Blockchain Developer Intern</b><br>Sync Lab S.r.l., Padua (03/2023 - 06/2023)<br>
-          <i>Ethereum DApp, Self-Sovereign Identity, Zero Knowledge Proofs</i></p>
-          <p><b>👨‍💼 Customer Service Manager</b><br>Clesp S.r.l., Padua (07/2020 - 10/2021)<br>
-          <i>Front office operations, team management, MySQL administration</i></p>
-          <p><b>🌐 Web Developer Intern</b><br>Digife S.r.l., Ferrara (01/2019 - 02/2019)<br>
-          <i>WordPress site creation, e-commerce implementations</i></p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Academic Positions</h3>
+      <ul>
+        <li><b>🎓 Lecturer in Systems and Networks</b><br>ITIS Galileo Ferraris, Padua (09/2024 - 06/2025)</li>
+        <li><b>👨‍🏫 Coordination Tutor</b><br>University of Padua, Dept. of Mathematics (01/2025 - Present)</li>
+        <li><b>📚 Didactic Tutor, Automata & Formal Languages</b><br>University of Padua (01/2025 - Present)</li>
+        <li><b>🧮 Didactic Tutor, Computability Theory</b><br>University of Padua (09/2024 - 01/2025)</li>
+        <li><b>💻 Didactic Tutor, Object Oriented Programming</b><br>University of Padua (09/2023 - 02/2024)</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">Industry Experience</h3>
+      <ul>
+        <li><b>⛓️ Blockchain Developer Intern</b><br>Sync Lab S.r.l., Padua (03/2023 - 06/2023)<br>
+        <i>Ethereum DApp, Self-Sovereign Identity, Zero Knowledge Proofs</i></li>
+        <li><b>👨‍💼 Customer Service Manager</b><br>Clesp S.r.l., Padua (07/2020 - 10/2021)<br>
+        <i>Front office operations, team management, MySQL administration</i></li>
+        <li><b>🌐 Web Developer Intern</b><br>Digife S.r.l., Ferrara (01/2019 - 02/2019)<br>
+        <i>WordPress site creation, e-commerce implementations</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!-- Featured Projects with card layout -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-  <!-- Project 1 -->
-  <div style="border: 1px solid #2e2e4a; border-radius: 10px; overflow: hidden; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <div style="background: linear-gradient(90deg, #4a00e0, #8e2de2); padding: 15px; color: white;">
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Event Analyzer</h3>
-    </div>
-    <div style="padding: 15px;">
       <a href="https://github.com/gabrielrovesti/event-analyzer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=event-analyzer&theme=tokyonight" width="100%" alt="Event Analyzer"/>
       </a>
@@ -100,15 +89,9 @@
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
       </div>
-    </div>
-  </div>
-  
-  <!-- Project 2 -->
-  <div style="border: 1px solid #2e2e4a; border-radius: 10px; overflow: hidden; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <div style="background: linear-gradient(90deg, #4a00e0, #8e2de2); padding: 15px; color: white;">
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">SystemFX</h3>
-    </div>
-    <div style="padding: 15px;">
       <a href="https://github.com/gabrielrovesti/SystemFX">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=SystemFX&theme=tokyonight" width="100%" alt="SystemFX"/>
       </a>
@@ -119,15 +102,11 @@
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
         <img src="https://img.shields.io/badge/Functional-A100FF?style=flat-square&logo=coursera&logoColor=white" alt="Functional"/>
       </div>
-    </div>
-  </div>
-  
-  <!-- Project 3 -->
-  <div style="border: 1px solid #2e2e4a; border-radius: 10px; overflow: hidden; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <div style="background: linear-gradient(90deg, #4a00e0, #8e2de2); padding: 15px; color: white;">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">FlutterRustImageFX</h3>
-    </div>
-    <div style="padding: 15px;">
       <a href="https://github.com/gabrielrovesti/FlutterRustImageFX">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=FlutterRustImageFX&theme=tokyonight" width="100%" alt="FlutterRustImageFX"/>
       </a>
@@ -138,15 +117,9 @@
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
         <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly"/>
       </div>
-    </div>
-  </div>
-  
-  <!-- Project 4 -->
-  <div style="border: 1px solid #2e2e4a; border-radius: 10px; overflow: hidden; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <div style="background: linear-gradient(90deg, #4a00e0, #8e2de2); padding: 15px; color: white;">
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">VerifiedMovies</h3>
-    </div>
-    <div style="padding: 15px;">
       <a href="https://github.com/gabrielrovesti/VerifiedMovies">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=VerifiedMovies&theme=tokyonight" width="100%" alt="VerifiedMovies"/>
       </a>
@@ -157,115 +130,105 @@
         <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3-dot-js&logoColor=white" alt="Web3"/>
         <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
       </div>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary><b>🔍 More Projects</b></summary>
-  <br>
-  <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-    <!-- Additional Project 1 -->
-    <div style="border: 1px solid #2e2e4a; border-radius: 10px; overflow: hidden; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <div style="background: linear-gradient(90deg, #4a00e0, #8e2de2); padding: 15px; color: white;">
+  <table align="center" border="0">
+    <tr>
+      <td width="50%" valign="top">
         <h3 align="center">PredictSense</h3>
-      </div>
-      <div style="padding: 15px;">
         <a href="https://github.com/gabrielrovesti/PredictSense">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=PredictSense&theme=tokyonight" width="100%" alt="PredictSense"/>
         </a>
         <p><b>Anomaly Detection System with Machine Learning</b></p>
         <p>Microservices architecture with ML, FastAPI, Streamlit and asynchronous communication</p>
-      </div>
-    </div>
-    
-<!-- Additional Project 2 -->
-    <div style="border: 1px solid #2e2e4a; border-radius: 10px; overflow: hidden; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <div style="background: linear-gradient(90deg, #4a00e0, #8e2de2); padding: 15px; color: white;">
+        <div>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+          <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+        </div>
+      </td>
+      <td width="50%" valign="top">
         <h3 align="center">Circuit Board Drilling Optimization</h3>
-      </div>
-      <div style="padding: 15px;">
         <a href="https://github.com/gabrielrovesti/MeMoCO-Assignments">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=MeMoCO-Assignments&theme=tokyonight" width="100%" alt="MeMoCO-Assignments"/>
         </a>
         <p><b>PCB Drilling Path Optimization</b></p>
         <p>Comparison of exact (CPLEX) and metaheuristic approaches</p>
-      </div>
-    </div>
-  </div>
+        <div>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+          <img src="https://img.shields.io/badge/CPLEX-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="CPLEX"/>
+          <img src="https://img.shields.io/badge/Optimization-FF6F00?style=flat-square&logo=mathworks&logoColor=white" alt="Optimization"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 </details>
 
-<!-- Education and Certifications with interactive cards -->
-<h2 align="center">🎓 Education & Skills</h2>
+<h2 align="center">🎓 Education & Certifications</h2>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Education Card -->
-  <div style="flex: 1; min-width: 300px; max-width: 400px; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin-bottom: 20px; overflow: hidden;">
-    <div style="background: linear-gradient(90deg, #38bdf8, #818cf8); padding: 15px; color: white;">
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Academic Qualifications</h3>
-    </div>
-    <div style="padding: 20px; color: white;">
-      <div style="margin-bottom: 15px; border-left: 3px solid #38bdf8; padding-left: 10px;">
-        <h4>M.Sc. Computer Science</h4>
-        <p>University of Padua (2023-2025)</p>
-        <p><i>Internet, Mobile and Security</i></p>
+      <div>
+        <div style="margin-bottom: 15px;">
+          <h4>M.Sc. Computer Science (2023-2025)</h4>
+          <p>University of Padua<br>
+          <i>Major: Internet, Mobile and Security</i><br>
+          <i>Minor: Innovation and Entrepreneurship in ICT</i><br>
+          <i>Extra activities: 100h Tutor Inclusion, 60h Teaching Tutor</i></p>
+        </div>
+        
+        <div style="margin-bottom: 15px;">
+          <h4>B.Sc. Computer Science (2020-2023)</h4>
+          <p>University of Padua<br>
+          Grade: 98/110<br>
+          <i>Thesis: VerifiedMovies - security and authentication using blockchain</i></p>
+        </div>
+        
+        <div>
+          <h4>Diploma in Computer Science 2015-2020)</h4>
+          <p>I.I.S Polo Tecnico di Adria<br>
+          Grade: 100/100</p>
+        </div>
       </div>
-      
-      <div style="margin-bottom: 15px; border-left: 3px solid #818cf8; padding-left: 10px;">
-        <h4>B.Sc. Computer Science</h4>
-        <p>University of Padua (2020-2023)</p>
-        <p>Grade: 98/110</p>
-        <p><i>Thesis: Blockchain Authentication</i></p>
-      </div>
-      
-      <div style="border-left: 3px solid #a855f7; padding-left: 10px;">
-        <h4>Diploma in Computer Science</h4>
-        <p>I.I.S Polo Tecnico di Adria (2015-2020)</p>
-        <p>Grade: 100/100</p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Certifications Card -->
-  <div style="flex: 1; min-width: 300px; max-width: 400px; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin-bottom: 20px; overflow: hidden;">
-    <div style="background: linear-gradient(90deg, #f59e0b, #ef4444); padding: 15px; color: white;">
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Technical Certifications</h3>
-    </div>
-    <div style="padding: 20px; color: white;">
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <span style="background-color: #1e293b; padding: 8px 12px; border-radius: 50px; display: inline-block; margin-bottom: 10px;">
+      <div>
+        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
           <img src="https://img.shields.io/badge/Lightbend_Reactive-E25A1C?style=flat-square&logoColor=white" alt="Lightbend"/>
         </span>
-        <span style="background-color: #1e293b; padding: 8px 12px; border-radius: 50px; display: inline-block; margin-bottom: 10px;">
+        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
           <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logoColor=white" alt="Cisco"/>
         </span>
-        <span style="background-color: #1e293b; padding: 8px 12px; border-radius: 50px; display: inline-block; margin-bottom: 10px;">
+        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
           <img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logoColor=white" alt="Scrum"/>
         </span>
-        <span style="background-color: #1e293b; padding: 8px 12px; border-radius: 50px; display: inline-block; margin-bottom: 10px;">
+        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
           <img src="https://img.shields.io/badge/Six_Sigma-FFBE00?style=flat-square&logoColor=black" alt="Six Sigma"/>
         </span>
-        <span style="background-color: #1e293b; padding: 8px 12px; border-radius: 50px; display: inline-block; margin-bottom: 10px;">
+        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
           <img src="https://img.shields.io/badge/MATLAB-BB92AC?style=flat-square&logoColor=white" alt="MATLAB"/>
         </span>
-        <span style="background-color: #1e293b; padding: 8px 12px; border-radius: 50px; display: inline-block; margin-bottom: 10px;">
+        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
           <img src="https://img.shields.io/badge/Cambridge_B2-012169?style=flat-square&logoColor=white" alt="Cambridge"/>
         </span>
-        <span style="background-color: #1e293b; padding: 8px 12px; border-radius: 50px; display: inline-block; margin-bottom: 10px;">
+        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
           <img src="https://img.shields.io/badge/GESE_Trinity-0EB1D2?style=flat-square&logoColor=white" alt="Trinity"/>
         </span>
-        <span style="background-color: #1e293b; padding: 8px 12px; border-radius: 50px; display: inline-block; margin-bottom: 10px;">
+        <span style="display: inline-block; margin: 5px; padding: 8px 12px; border-radius: 50px; background-color: #1e293b;">
           <img src="https://img.shields.io/badge/Google_Marketing-4285F4?style=flat-square&logoColor=white" alt="Google"/>
         </span>
-        <span style="background-color: #1e293b; padding: 8px 12px; border-radius: 50px; display: inline-block; margin-bottom: 10px;">
-          <img src="https://img.shields.io/badge/Hubspot-FF7A59?style=flat-square&logoColor=white" alt="Hubspot"/>
-        </span>
       </div>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
-<!-- Stats & Achievements with modern design -->
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
 <div align="center" style="margin-bottom: 30px;">
@@ -273,121 +236,110 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
-<!-- Achievements with animated badges -->
-<div style="background: linear-gradient(135deg, #111827 0%, #1f2937 100%); border-radius: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; margin-bottom: 30px;">
-  <h3 align="center" style="color: white; margin-bottom: 20px;">🏆 Notable Achievements</h3>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-    <div style="background-color: #1e293b; border-radius: 12px; padding: 15px; width: 180px; text-align: center; transition: transform 0.3s ease;">
-      <div style="font-size: 32px; margin-bottom: 10px;">🏆</div>
-      <div style="color: #e2e8f0; font-weight: bold;">Top 50 STEM Students</div>
-      <div style="color: #94a3b8; font-size: 14px;">University of Padua</div>
-    </div>
-    
-    <div style="background-color: #1e293b; border-radius: 12px; padding: 15px; width: 180px; text-align: center; transition: transform 0.3s ease;">
-      <div style="font-size: 32px; margin-bottom: 10px;">🥈</div>
-      <div style="color: #e2e8f0; font-weight: bold;">Web Accessibility Competition</div>
-      <div style="color: #94a3b8; font-size: 14px;">Runner-up</div>
-    </div>
-    
-    <div style="background-color: #1e293b; border-radius: 12px; padding: 15px; width: 180px; text-align: center; transition: transform 0.3s ease;">
-      <div style="font-size: 32px; margin-bottom: 10px;">🎓</div>
-      <div style="color: #e2e8f0; font-weight: bold;">Academic Merit Scholarships</div>
-      <div style="color: #94a3b8; font-size: 14px;">Multiple Awards</div>
-    </div>
-    
-    <div style="background-color: #1e293b; border-radius: 12px; padding: 15px; width: 180px; text-align: center; transition: transform 0.3s ease;">
-      <div style="font-size: 32px; margin-bottom: 10px;">🥋</div>
-      <div style="color: #e2e8f0; font-weight: bold;">Karate Competitions</div>
-      <div style="color: #94a3b8; font-size: 14px;">National Medals</div>
-    </div>
-    
-    <div style="background-color: #1e293b; border-radius: 12px; padding: 15px; width: 180px; text-align: center; transition: transform 0.3s ease;">
-      <div style="font-size: 32px; margin-bottom: 10px;">👨‍💻</div>
-      <div style="color: #e2e8f0; font-weight: bold;">Top GitHub Committer</div>
-      <div style="color: #94a3b8; font-size: 14px;">Italy Ranking</div>
-    </div>
-  </div>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <h3>🏆 Notable Achievements</h3>
+      <table border="0">
+        <tr>
+          <td width="60px" align="center">🏆</td>
+          <td><strong>Top 50 STEM Students at UniPD</strong> - Ranked 39th place out of 300 students in 2024-2025 (only one from M.Sc. in Computer Science)</td>
+        </tr>
+        <tr>
+          <td align="center">🥈</td>
+          <td><strong>Runner-up in "Accattivante ed Accessibile" Competition</strong> - Web accessibility design competition (12/2022)</td>
+        </tr>
+        <tr>
+          <td align="center">🎓</td>
+          <td><strong>Multiple Academic Merit Scholarships</strong> - Four scholarships between High School and University (2 from Fondazione Carlo Bocchi, 1 from Regione Emilia Romagna, 1 from UniPD)</td>
+        </tr>
+        <tr>
+          <td align="center">🥋</td>
+          <td><strong>Several Medals in National Karate Competitions</strong> - Bronze medals and a cup in interregional karate competitions (FIJLKAM)</td>
+        </tr>
+        <tr>
+          <td align="center">👨‍💻</td>
+          <td><strong>Top GitHub Committer</strong> - In the top 50/100 of commits in Italy during college years</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<!-- Currently Learning / Research Interests -->
 <h2 align="center">🔮 Currently Exploring</h2>
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 30px;">
-    <div style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); border-radius: 12px; padding: 20px; width: 300px;">
-      <h3 style="color: white; text-align: center; margin-bottom: 15px;">Blockchain & Web3</h3>
-      <p style="color: #cbd5e1; text-align: center;">Self-Sovereign Identity, Zero Knowledge Proofs, Decentralized Authentication</p>
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #3a1c71 0%, #d76d77 50%, #ffaf7b 100%); border-radius: 12px; padding: 20px; width: 300px;">
-      <h3 style="color: white; text-align: center; margin-bottom: 15px;">Reactive Systems</h3>
-      <p style="color: #cbd5e1; text-align: center;">Event-driven architectures, Reactive programming patterns, Non-blocking I/O</p>
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #1a2a6c 0%, #b21f1f 50%, #fdbb2d 100%); border-radius: 12px; padding: 20px; width: 300px;">
-      <h3 style="color: white; text-align: center; margin-bottom: 15px;">Mobile & IoT Security</h3>
-      <p style="color: #cbd5e1; text-align: center;">Wireless network security, Authentication protocols, Mobile application vulnerabilities</p>
-    </div>
-  </div>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="33%" style="padding: 15px;">
+      <h3>Blockchain & Web3</h3>
+      <p>Self-Sovereign Identity, Zero Knowledge Proofs, Decentralized Authentication</p>
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <h3>Reactive Systems</h3>
+      <p>Event-driven architectures, Reactive programming patterns, Non-blocking I/O</p>
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <h3>Mobile & IoT Security</h3>
+      <p>Wireless network security, Authentication protocols, Mobile application vulnerabilities</p>
+    </td>
+  </tr>
+</table>
 
-<!-- Fun Facts with clean two-column layout -->
 <h2 align="center">⚡ Fun Facts & Personal Interests</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 40px;">
-  <div style="flex: 1; min-width: 300px; max-width: 450px;">
-    <ul style="list-style-type: none; padding: 0;">
-      <li style="display: flex; align-items: center; margin-bottom: 15px;">
-        <span style="font-size: 1.5rem; margin-right: 15px;">🤖</span>
-        <span>Curious and hard-working, constantly learning out of passion</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 15px;">
-        <span style="font-size: 1.5rem; margin-right: 15px;">🗺️</span>
-        <span>Currently living in Padua, from Serravalle (Ferrara), born in Bologna</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 15px;">
-        <span style="font-size: 1.5rem; margin-right: 15px;">📕</span>
-        <span>Passionate writer and poetry lover - depth over shallowness</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 15px;">
-        <span style="font-size: 1.5rem; margin-right: 15px;">💻</span>
-        <span>CS Enthusiast with experience teaching diverse students</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 15px;">
-<span style="font-size: 1.5rem; margin-right: 15px;">🎵</span>
-        <span>Musicophile with love for funk/black music - Michael Jackson enthusiast</span>
-      </li>
-    </ul>
-  </div>
-  
-  <div style="flex: 1; min-width: 300px; max-width: 450px;">
-    <ul style="list-style-type: none; padding: 0;">
-      <li style="display: flex; align-items: center; margin-bottom: 15px;">
-        <span style="font-size: 1.5rem; margin-right: 15px;">🎮</span>
-        <span>Game design enthusiast and retro gamer</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 15px;">
-        <span style="font-size: 1.5rem; margin-right: 15px;">🎨</span>
-        <span>Art lover drawn to unique creativity and attention to detail</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 15px;">
-        <span style="font-size: 1.5rem; margin-right: 15px;">🥋</span>
-        <span>Karateka with a brown belt (9 years Shotokan style)</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 15px;">
-        <span style="font-size: 1.5rem; margin-right: 15px;">🚴‍♂️</span>
-        <span>Cycling enthusiast from Ferrara, "city of bicycles"</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 15px;">
-        <span style="font-size: 1.5rem; margin-right: 15px;">🚶‍♂️</span>
-        <span>"Forrest Gump of walking" - evening pastime after work</span>
-      </li>
-    </ul>
-  </div>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <ul style="list-style-type: none; padding: 0;">
+        <li style="display: flex; align-items: center; margin-bottom: 15px;">
+          <span style="font-size: 1.5rem; margin-right: 15px;">🤖</span>
+          <span>Curious and hard-working, constantly learning out of passion</span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 15px;">
+          <span style="font-size: 1.5rem; margin-right: 15px;">🗺️</span>
+          <span>Currently living in Padua, from Serravalle (Ferrara), born in Bologna</span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 15px;">
+          <span style="font-size: 1.5rem; margin-right: 15px;">📕</span>
+          <span>Passionate writer and poetry lover - depth over shallowness</span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 15px;">
+          <span style="font-size: 1.5rem; margin-right: 15px;">💻</span>
+          <span>CS Enthusiast with experience teaching diverse students</span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 15px;">
+          <span style="font-size: 1.5rem; margin-right: 15px;">🎵</span>
+          <span>Musicophile with love for funk/black music - Michael Jackson enthusiast</span>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul style="list-style-type: none; padding: 0;">
+        <li style="display: flex; align-items: center; margin-bottom: 15px;">
+          <span style="font-size: 1.5rem; margin-right: 15px;">🎮</span>
+          <span>Game design enthusiast and retro gamer</span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 15px;">
+          <span style="font-size: 1.5rem; margin-right: 15px;">🎨</span>
+          <span>Art lover drawn to unique creativity and attention to detail</span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 15px;">
+          <span style="font-size: 1.5rem; margin-right: 15px;">🥋</span>
+          <span>Karateka with a brown belt (9 years Shotokan style)</span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 15px;">
+          <span style="font-size: 1.5rem; margin-right: 15px;">🚴‍♂️</span>
+          <span>Cycling enthusiast from Ferrara, "city of bicycles"</span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 15px;">
+          <span style="font-size: 1.5rem; margin-right: 15px;">🚶‍♂️</span>
+          <span>"Forrest Gump of walking" - evening pastime after work</span>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!-- Connect section with modern buttons -->
 <h2 align="center">📫 Let's Connect!</h2>
 
 <div align="center" style="margin-bottom: 30px;">
@@ -402,7 +354,6 @@
   </a>
 </div>
 
-<!-- Footer with wave animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 </div>
