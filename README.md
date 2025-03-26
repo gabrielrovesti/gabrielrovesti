@@ -183,7 +183,7 @@
   <tr>
     <td align="center" width="180px">
       <div style="font-size: 28px; margin-bottom: 10px;">🏆</div>
-      <div style="font-weight: bold;">Top 50 STEM Students</div>
+      <div style="font-weight: bold;">Top 50 STEM Students in 23/24 (39th by merit)</div>
       <div style="font-size: 14px;">University of Padua</div>
     </td>
     <td align="center" width="180px">
