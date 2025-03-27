@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Gabriel%20Rovesti&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Lecturer%20|%20Computer%20Science%20M.Sc.%20Student%20|%20Tutor&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Gabriel%20Rovesti&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Teacher%20|%20M.Sc.%20Computer%20Science%2%20Student%20|%20Tutor&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -203,8 +203,8 @@
     </td>
     <td align="center" width="180px">
       <div style="font-size: 28px; margin-bottom: 10px;">👨‍💻</div>
-      <div style="font-weight: bold;">Top GitHub Committer</div>
-      <div style="font-size: 14px;">Italy Ranking</div>
+      <div style="font-weight: bold;">Top GitHub Committer during College Years</div>
+      <div style="font-size: 14px;">In the Top 50/100 Italy Ranking</div>
     </td>
   </tr>
 </table>
