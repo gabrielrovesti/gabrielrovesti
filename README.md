@@ -222,7 +222,7 @@
           <i>Major: Internet, Mobile and Security</i><br>
           <i>Minor: Innovation and Entrepreneurship in ICT</i><br>
           <i>Extra activities: 100h Tutor Inclusion, 60h Teaching Tutor</i><br>
-          <i>Thesis: Designing an accessibility learning toolkit: bridging the gap between guidelines and implementation/i></p>
+          <i>Thesis: Designing an accessibility learning toolkit: bridging the gap between guidelines and implementation</i></p>
         </li>
         <li>
           <h4>B.Sc. Computer Science (2020-2023)</h4>
