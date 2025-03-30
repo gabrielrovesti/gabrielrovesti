@@ -2,9 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Gabriel%20Rovesti&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Teacher%20|%20M.Sc.%20Computer%20Science%20Student%20|%20Tutor&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px;">
-  <div style="flex: 1;">
-    <h2>🧠 About Me</h2>
+<div align="center"> 
+  <h2>🧠 About Me</h2>
+  
+  <div align="left" style="margin-right: 400px;">
     <p>Merging technical expertise with pedagogical passion, I excel at developing robust solutions while simplifying complex concepts for diverse audiences. My approach is <i>"simple to grasp, deep to master"</i> - focusing on core concepts with meticulous attention to quality and efficiency.</p>
     <p>Having mastered agile time management between professional commitments, I've transformed productivity into a personal strength. My greatest passion remains teaching, where I've worked with learners ranging from those with specific learning challenges to university students in formal academic settings.</p>
   </div>
