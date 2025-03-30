@@ -8,10 +8,6 @@
     <p>Merging technical expertise with pedagogical passion, I excel at developing robust solutions while simplifying complex concepts for diverse audiences. My approach is <i>"simple to grasp, deep to master"</i> - focusing on core concepts with meticulous attention to quality and efficiency.</p>
     <p>Having mastered agile time management between professional commitments, I've transformed productivity into a personal strength. My greatest passion remains teaching, where I've worked with learners ranging from those with specific learning challenges to university students in formal academic settings.</p>
   </div>
-  <!-- Per rimuovere l'immagine, elimina questo div -->
-  <div style="flex: 0 0 320px; margin-left: 20px;">
-    <img alt="Coding" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd3Z3owa2wybHQ4cG04ank1d2p4dDFibDlkMG5yZGRlaWs3bmVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-  </div>
 </div>
 
 <h3 align="center">Focus Areas</h3>
