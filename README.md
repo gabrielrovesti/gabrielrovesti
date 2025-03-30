@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd3Z3owa2wybHQ4cG04ank1d2p4dDFibDlkMG5yZGRlaWs3bmVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd3Z3owa2wybHQ4cG04ank1d2p4dDFibDlkMG5yZGRlaWs3bmVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="z-index: 1; position: relative; max-height: 100%; object-fit: contain;">
   
   <h2>🧠 About Me</h2>
   
