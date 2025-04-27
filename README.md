@@ -163,6 +163,49 @@
         </div>
       </td>
     </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Numerical Analysis Projects</h3>
+      <a href="https://github.com/gabrielrovesti/numerical-analysis-unipd-projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=numerical-analysis-unipd-projects&theme=tokyonight" width="100%" alt="Numerical Analysis Projects"/>
+      </a>
+      <p><b>MATLAB Scientific Computing</b></p>
+      <p>Collection of numerical analysis algorithms including polynomial interpolation, matrix eigenvalue computation, and wave equation solvers.</p>
+      <div>
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
+        <img src="https://img.shields.io/badge/Numerical_Analysis-FF6F00?style=flat-square&logo=mathworks&logoColor=white" alt="Numerical Analysis"/>
+        <img src="https://img.shields.io/badge/Scientific_Computing-52B0E7?style=flat-square&logo=mathworks&logoColor=white" alt="Scientific Computing"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">FigureSkatingScorer</h3>
+      <a href="https://github.com/gabrielrovesti/FigureSkatingScorer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=FigureSkatingScorer&theme=tokyonight" width="100%" alt="FigureSkatingScorer"/>
+      </a>
+      <p><b>Concurrent Scoring System</b></p>
+      <p>Multithreaded Java application simulating real-time figure skating scoring with judges, athletes, and technical panels operating in parallel.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Concurrency-5382A1?style=flat-square&logo=java&logoColor=white" alt="Concurrency"/>
+        <img src="https://img.shields.io/badge/Multithreading-007396?style=flat-square&logo=java&logoColor=white" alt="Multithreading"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">PDF Generator Service</h3>
+      <a href="https://github.com/gabrielrovesti/pdf-generator-service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=pdf-generator-service&theme=tokyonight" width="100%" alt="PDF Generator Service"/>
+      </a>
+      <p><b>Dynamic PDF Generation Service</b></p>
+      <p>TypeScript/Node.js service for generating professional PDF reports with native ChartJS support, built as a PoC for technical interview.</p>
+      <div>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/PDF_Generation-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="PDF Generation"/>
+      </div>
+    </td>
+  </tr>
   </table>
 </details>
 
