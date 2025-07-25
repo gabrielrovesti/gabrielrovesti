@@ -399,6 +399,7 @@
         <li>
           <h4>M.Sc. Computer Science (2023-2025)</h4>
           <p>University of Padua<br>
+          Grade: 104/110<br>
           <i>Major: Internet, Mobile and Security</i><br>
           <i>Minor: Innovation and Entrepreneurship in ICT</i><br>
           <i>Thesis: <strong>Designing an accessibility learning toolkit: bridging the gap between guidelines and implementation</strong></i><br>
