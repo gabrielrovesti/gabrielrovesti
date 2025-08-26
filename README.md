@@ -67,9 +67,9 @@
     <td width="50%">
       <h3 align="center">🎓 Academic Leadership</h3>
       <ul>
-        <li><b>🎯 Coordination Tutor</b><br>University of Padua, Dept. of Mathematics (01/2025 - Present)</li>
-        <li><b>🏫 Lecturer in Systems and Networks</b><br>ITIS Galileo Ferraris, Padua (09/2024 - 06/2025)</li>
-        <li><b>📚 Didactic Tutor, Automata & Formal Languages</b><br>University of Padua (01/2025 - Present)</li>
+        <li><b>🎯 Coordination Tutor</b><br>University of Padua, Dept. of Mathematics (01/2025 - 09-2025)</li>
+        <li><b>🏫 Lecturer in Systems and Networks</b><br>ITIS Galileo Ferraris, Padua (09/2024 - 09/2025)</li>
+        <li><b>📚 Didactic Tutor, Automata & Formal Languages</b><br>University of Padua (01/2025 - 06-2025)</li>
         <li><b>🧮 Didactic Tutor, Computability Theory</b><br>University of Padua (09/2024 - 01/2025)</li>
         <li><b>♿ Inclusion Tutor & Accessibility Consultant</b><br>University of Padua (11/2023 - 09/2025)</li>
         <li><b>💻 Didactic Tutor, Object Oriented Programming</b><br>University of Padua (09/2023 - 02/2024)</li>
