@@ -78,8 +78,8 @@
     <td width="50%">
       <h3 align="center">🚀 Industry Experience</h3>
       <ul>
-        <li><b>⛓️ Blockchain Developer Intern</b><br>Sync Lab S.r.l., Padua (03/2023 - 06/2023)<br>
-        <i>Ethereum DApp, Self-Sovereign Identity, Zero Knowledge Proofs</i></li>
+        <li><b>⚙️ IT Consultant </b><br>Technology Reply, Padua (09/2025 - Present)<br>
+        <i> Microservices implementation, digital transformation, home banking solutions </i></li>
         <li><b>👨‍💼 Customer Service Manager</b><br>Clesp S.r.l., Padua (07/2020 - 10/2021)<br>
         <i>Front office operations, team management, MySQL administration</i></li>
         <li><b>🌐 Web Developer Intern</b><br>Digife S.r.l., Ferrara (01/2019 - 02/2019)<br>
