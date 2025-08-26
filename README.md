@@ -7,7 +7,7 @@
   
   <div align="left" style="margin-right: 400px;">
     <p>Merging technical expertise with pedagogical passion, I excel at developing robust solutions while simplifying complex concepts for diverse audiences. My approach is <i>"simple to grasp, deep to master"</i> - focusing on core concepts with meticulous attention to quality, efficiency, and accessibility.</p>
-    <p>Currently completing my M.Sc. thesis on <strong>accessibility toolkits for developers</strong>, bridging the gap between WCAG guidelines and practical implementation. My greatest passion remains teaching, where I've worked with learners ranging from those with specific learning challenges to university students in formal academic settings.</p>
+    <p>Currently starting a new position as IT consultant at Technology Reply, to finally gain some industry hands-on experience, after so long into teaching and so many activities. My greatest passion remains teaching, where I've worked with learners ranging from those with specific learning challenges to university students in formal academic settings.</p>
   </div>
 </div>
 
