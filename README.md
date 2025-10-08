@@ -447,7 +447,7 @@
 <h2 align="center">📚 Teaching & Academic Contributions</h2>
 
 <div align="center">
-  <p><b>📊 Teaching Impact:</b> 10+ years private tutoring • 250 hours university inclusion support • 150 hours didactic tutoring • Systems & Networks lecturer</p>
+  <p><b>📊 Teaching Impact:</b> 10+ years private tutoring • 350 hours university inclusion support • 150 hours didactic tutoring • Systems & Networks lecturer</p>
 </div>
 
 <table align="center" border="0">
