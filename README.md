@@ -6,11 +6,6 @@
     <strong>Hi — I'm Gabriel Rovesti.</strong> IT consultant, full‑stack engineer and CS educator focused on accessibility, reliable systems and clear teaching. I build production services, teach Computer Science courses, and contribute open-source tools that lower the barrier to accessible software.
   </p>
 
-  <p style="max-width:900px; text-align:left;">
-    <strong>TL;DR:</strong>
-    <span> M.Sc. Computer Science • Accessibility & WCAG advocate • Microservices, Rust, F#, TypeScript • 10+ years tutoring experience </span>
-  </p>
-
   <p>
     <a href="https://gabrielrovesti.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
     <a href="https://gabrielrovesti.github.io/docs/CV%20Gabriel%20Rovesti.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/></a>
