@@ -1,6 +1,33 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=It's-a-me,%20Gabriel!&fontSize=42&animation=fadeIn&fontAlignY=36&desc=IT%20Consultant%20|%20Full%20Stack%20Developer%20|%20CS%20Teacher%20and%20Tutor%20&descAlignY=62&descAlign=50" width="100%"/>
 </div>
+<div align="center">
+  <p style="max-width:900px; text-align:left;">
+    <strong>Hi — I'm Gabriel Rovesti.</strong> IT consultant, full‑stack engineer and CS educator focused on accessibility, reliable systems and clear teaching. I build production services, teach Computer Science courses, and contribute open-source tools that lower the barrier to accessible software.
+  </p>
+
+  <p style="max-width:900px; text-align:left;">
+    <strong>TL;DR:</strong>
+    <span> M.Sc. Computer Science • Accessibility & WCAG advocate • Microservices, Rust, F#, TypeScript • 10+ years tutoring experience</span>
+  </p>
+
+  <p style="max-width:900px; text-align:left;">
+    <strong>Stats:</strong>
+    <span> 🚀 23+ Projects • 👨‍🏫 100+ Students Taught • 🏆 Top 50 STEM Student • 📜 13+ Certifications</span>
+  </p>
+
+  <p>
+    <a href="https://gabrielrovesti.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://gabrielrovesti.github.io/docs/CV%20Gabriel%20Rovesti.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/></a>
+    <a href="https://www.linkedin.com/in/gabriel-rovesti-601404220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:rovestigabriel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/gabrielrovesti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
+
+  <p style="max-width:900px; text-align:center; font-size:0.95em; color: #444;">
+    <strong>Accessibility note:</strong> This profile includes images and badges. Alt text is provided where possible; if you find accessibility issues, please email me so I can improve it.
+  </p>
+</div>
 
 <div align="center"> 
   <h2>🧠 About Me</h2>
@@ -421,6 +448,9 @@
     <td width="50%" valign="top">
       <h3 align="center">Recent Certifications & Skills</h3>
       <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 10px;">
+        <img src="https://img.shields.io/badge/Kubernetes_LFS158-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+        <img src="https://img.shields.io/badge/Datadog_Fundamentals-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
+        <img src="https://img.shields.io/badge/The_Odin_Project-D4A017?style=for-the-badge&logo=theodinproject&logoColor=white" alt="The Odin Project"/>
         <img src="https://img.shields.io/badge/Lightbend_Reactive-E25A1C?style=for-the-badge&logoColor=white" alt="Lightbend"/>
         <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco"/>
         <img src="https://img.shields.io/badge/WCAG_Expert-005A9C?style=for-the-badge&logoColor=white" alt="WCAG"/>
@@ -428,9 +458,6 @@
         <img src="https://img.shields.io/badge/Six_Sigma-FFBE00?style=for-the-badge&logoColor=black" alt="Six Sigma"/>
         <img src="https://img.shields.io/badge/MATLAB-BB92AC?style=for-the-badge&logoColor=white" alt="MATLAB"/>
         <img src="https://img.shields.io/badge/Cambridge_B2-012169?style=for-the-badge&logoColor=white" alt="Cambridge"/>
-        <img src="https://img.shields.io/badge/GESE_Trinity-0EB1D2?style=for-the-badge&logoColor=white" alt="Trinity"/>
-        <img src="https://img.shields.io/badge/Google_Marketing-4285F4?style=for-the-badge&logoColor=white" alt="Google"/>
-        <img src="https://img.shields.io/badge/Hubspot-FF7A59?style=for-the-badge&logoColor=white" alt="Hubspot"/>
       </div>
       <h4 align="center" style="margin-top: 20px;">Specialized Knowledge</h4>
       <ul>
@@ -472,6 +499,12 @@
     </td>
   </tr>
 </table>
+
+<h3 align="center">💬 Testimonials</h3>
+<div align="center">
+  <p><i>"Very professional and knowledgeable! Great empathy and education in the approach with pupils! Definitely great satisfaction in learning with such a competent person, professional and also with great availability! Thank you Gabriel."</i></p>
+  <p><b>— Stefano I.</b> (Ex CEO & Entrepreneur)</p>
+</div>
 
 <h2 align="center">⚡ Fun Facts & Personal Interests</h2>
 
