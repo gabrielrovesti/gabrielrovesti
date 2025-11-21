@@ -8,12 +8,7 @@
 
   <p style="max-width:900px; text-align:left;">
     <strong>TL;DR:</strong>
-    <span> M.Sc. Computer Science • Accessibility & WCAG advocate • Microservices, Rust, F#, TypeScript • 10+ years tutoring experience</span>
-  </p>
-
-  <p style="max-width:900px; text-align:left;">
-    <strong>Stats:</strong>
-    <span> 🚀 23+ Projects • 👨‍🏫 100+ Students Taught • 🏆 Top 50 STEM Student • 📜 13+ Certifications</span>
+    <span> M.Sc. Computer Science • Accessibility & WCAG advocate • Microservices, Rust, F#, TypeScript • 10+ years tutoring experience </span>
   </p>
 
   <p>
@@ -22,10 +17,6 @@
     <a href="https://www.linkedin.com/in/gabriel-rovesti-601404220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:rovestigabriel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/gabrielrovesti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
-
-  <p style="max-width:900px; text-align:center; font-size:0.95em; color: #444;">
-    <strong>Accessibility note:</strong> This profile includes images and badges. Alt text is provided where possible; if you find accessibility issues, please email me so I can improve it.
   </p>
 </div>
 
