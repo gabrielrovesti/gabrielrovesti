@@ -111,10 +111,7 @@
 <table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">AccessibleHub</h3>
-      <a href="https://github.com/gabrielrovesti/AccessibleHub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=AccessibleHub&theme=tokyonight" width="100%" alt="AccessibleHub"/>
-      </a>
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/AccessibleHub">AccessibleHub</a></h3>
       <p><b>M.Sc. Thesis: Mobile Accessibility Learning Toolkit</b></p>
       <p>React Native app implementing WCAG 2.2, MCAG, and WCAG2Mobile guidelines with interactive learning modules for developers</p>
       <div>
@@ -125,10 +122,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">TinyML-Interpreter</h3>
-      <a href="https://github.com/gabrielrovesti/TinyML-Interpreter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=TinyML-Interpreter&theme=tokyonight" width="100%" alt="TinyML-Interpreter"/>
-      </a>
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/TinyML-Interpreter">TinyML-Interpreter</a></h3>
       <p><b>ML Interpreter with Hindley-Milner Type Inference</b></p>
       <p>Complete functional programming language interpreter implementing advanced type theory concepts</p>
       <div>
@@ -145,10 +139,7 @@
 <table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Event Analyzer</h3>
-      <a href="https://github.com/gabrielrovesti/event-analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=event-analyzer&theme=tokyonight" width="100%" alt="Event Analyzer"/>
-      </a>
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/event-analyzer">Event Analyzer</a></h3>
       <p><b>Reactive Real-time Event Processing System</b></p>
       <p>Spring WebFlux, MongoDB, Redis with reactive programming patterns for high-throughput data processing</p>
       <div>
@@ -159,10 +150,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">PredictSense</h3>
-      <a href="https://github.com/gabrielrovesti/PredictSense">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=PredictSense&theme=tokyonight" width="100%" alt="PredictSense"/>
-      </a>
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/PredictSense">PredictSense</a></h3>
       <p><b>ML-based Anomaly Detection System</b></p>
       <p>Microservices architecture with FastAPI, Streamlit, RabbitMQ for real-time anomaly detection</p>
       <div>
@@ -175,10 +163,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">SystemFX</h3>
-      <a href="https://github.com/gabrielrovesti/SystemFX">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=SystemFX&theme=tokyonight" width="100%" alt="SystemFX"/>
-      </a>
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/SystemFX">SystemFX</a></h3>
       <p><b>Functional Stream Processing Framework</b></p>
       <p>Advanced F# framework for composable data stream processing with formal guarantees</p>
       <div>
@@ -188,10 +173,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">FlutterRustImageFX</h3>
-      <a href="https://github.com/gabrielrovesti/FlutterRustImageFX">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=FlutterRustImageFX&theme=tokyonight" width="100%" alt="FlutterRustImageFX"/>
-      </a>
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/FlutterRustImageFX">FlutterRustImageFX</a></h3>
       <p><b>Cross-platform Photo Editing with Rust Performance</b></p>
       <p>Flutter UI with high-performance Rust filters compiled to WebAssembly</p>
       <div>
