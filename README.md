@@ -349,7 +349,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielrovesti&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=gabrielrovesti&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <h3 align="center">🏆 Notable Achievements</h3>
