@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=It's-a-me,%20Gabriel!&fontSize=42&animation=fadeIn&fontAlignY=36&desc=IT%20Consultant%20|%20Full%20Stack%20Developer%20|%20CS%20Teacher%20and%20Tutor%20&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=It's-a-me,%20Gabriel!&fontSize=42&animation=fadeIn&fontAlignY=36&desc=IT%20Consultant%20|%20Full%20Stack%20Developer%20|%20CS%20Teacher%20and%20Tutor%20&descAlignY=62&descAlign=50" width="100%" alt="Gabriel Rovesti header"/>
 </div>
 <div align="center">
   <p style="max-width:900px; text-align:left;">
@@ -194,7 +194,7 @@
       <td width="50%" valign="top">
         <h3 align="center">UniPD Study Notes Collection</h3>
         <a href="https://github.com/gabrielrovesti/unipd-bachelor-master-computer-science-notes">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=unipd-bachelor-master-computer-science-notes&theme=tokyonight" width="100%" alt="UniPD Notes"/>
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=unipd-bachelor-master-computer-science-notes&theme=tokyonight&cache_seconds=86400" width="100%" alt="UniPD Notes"/>
         </a>
         <p><b>Comprehensive Computer Science Study Materials</b></p>
         <p>Complete collection of organized notes for University of Padua CS programs, including Cybersecurity and Data Science tracks</p>
@@ -207,7 +207,7 @@
       <td width="50%" valign="top">
         <h3 align="center">University Accessibility Toolkit</h3>
         <a href="https://github.com/gabrielrovesti/university-accessibility-toolkit">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=university-accessibility-toolkit&theme=tokyonight" width="100%" alt="Accessibility Toolkit"/>
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=university-accessibility-toolkit&theme=tokyonight&cache_seconds=86400" width="100%" alt="Accessibility Toolkit"/>
         </a>
         <p><b>WCAG 2.1 AA Compliant University Templates</b></p>
         <p>Practical toolkit for accessible university admission tests and documents with European Accessibility Act 2025 compliance</p>
@@ -222,7 +222,7 @@
       <td width="50%" valign="top">
         <h3 align="center">WNMA UAV Route Planning Survey</h3>
         <a href="https://github.com/gabrielrovesti/WNMA-UAV-Route-Planning-Survey">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=WNMA-UAV-Route-Planning-Survey&theme=tokyonight" width="100%" alt="UAV Survey"/>
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=WNMA-UAV-Route-Planning-Survey&theme=tokyonight&cache_seconds=86400" width="100%" alt="UAV Survey"/>
         </a>
         <p><b>Academic Survey on UAV Route Planning</b></p>
         <p>Comprehensive research on UAV route planning strategies for wireless networks and mobile applications</p>
@@ -235,7 +235,7 @@
       <td width="50%" valign="top">
         <h3 align="center">Concurrent Graph Processing</h3>
         <a href="https://github.com/gabrielrovesti/concurrent-graph-lcd">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=concurrent-graph-lcd&theme=tokyonight" width="100%" alt="Concurrent Graph"/>
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=concurrent-graph-lcd&theme=tokyonight&cache_seconds=86400" width="100%" alt="Concurrent Graph"/>
         </a>
         <p><b>Advanced Concurrency Patterns in Erlang</b></p>
         <p>Demonstration of different approaches to concurrent and distributed graph processing systems</p>
@@ -250,7 +250,7 @@
       <td width="50%" valign="top">
         <h3 align="center">Wedding Seating Optimization</h3>
         <a href="https://github.com/gabrielrovesti/wedding-seating-optimization-csp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=wedding-seating-optimization-csp&theme=tokyonight" width="100%" alt="Wedding CSP"/>
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=wedding-seating-optimization-csp&theme=tokyonight&cache_seconds=86400" width="100%" alt="Wedding CSP"/>
         </a>
         <p><b>Constraint Satisfaction Problem in Prolog</b></p>
         <p>Advanced constraint programming solution for optimal wedding table assignments</p>
@@ -263,7 +263,7 @@
       <td width="50%" valign="top">
         <h3 align="center">Numerical Analysis Projects</h3>
         <a href="https://github.com/gabrielrovesti/numerical-analysis-unipd-projects">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=numerical-analysis-unipd-projects&theme=tokyonight" width="100%" alt="Numerical Analysis"/>
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=numerical-analysis-unipd-projects&theme=tokyonight&cache_seconds=86400" width="100%" alt="Numerical Analysis"/>
         </a>
         <p><b>MATLAB Scientific Computing Collection</b></p>
         <p>Polynomial interpolation, matrix eigenvalue computation, wave equation solvers, and more advanced numerical methods</p>
@@ -284,7 +284,7 @@
       <td width="50%" valign="top">
         <h3 align="center">Spotify to YouTube Music Transfer</h3>
         <a href="https://github.com/gabrielrovesti/spotify-to-ytmusic-transfer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=spotify-to-ytmusic-transfer&theme=tokyonight" width="100%" alt="Spotify Transfer"/>
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=spotify-to-ytmusic-transfer&theme=tokyonight&cache_seconds=86400" width="100%" alt="Spotify Transfer"/>
         </a>
         <p><b>High-Success Playlist Migration Tool</b></p>
         <p>Python script with 97% success rate (2151/2205 tracks) for transferring Spotify playlists to YouTube Music</p>
@@ -297,7 +297,7 @@
       <td width="50%" valign="top">
         <h3 align="center">Typst Developer CV Template</h3>
         <a href="https://github.com/gabrielrovesti/typst-dev-cv-template">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=typst-dev-cv-template&theme=tokyonight" width="100%" alt="Typst CV"/>
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=typst-dev-cv-template&theme=tokyonight&cache_seconds=86400" width="100%" alt="Typst CV"/>
         </a>
         <p><b>Modern CV Template for Developers</b></p>
         <p>Clean, minimal CV template built with Typst for the modern developer workflow</p>
@@ -312,7 +312,7 @@
       <td width="50%" valign="top">
         <h3 align="center">PDF Generator Service</h3>
         <a href="https://github.com/gabrielrovesti/pdf-generator-service">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=pdf-generator-service&theme=tokyonight" width="100%" alt="PDF Generator"/>
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=pdf-generator-service&theme=tokyonight&cache_seconds=86400" width="100%" alt="PDF Generator"/>
         </a>
         <p><b>Professional PDF Generation Service</b></p>
         <p>TypeScript service for dynamic PDF reports with ChartJS integration, built as technical interview PoC</p>
@@ -325,7 +325,7 @@
       <td width="50%" valign="top">
         <h3 align="center">VerifiedMovies</h3>
         <a href="https://github.com/gabrielrovesti/VerifiedMovies">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrovesti&repo=VerifiedMovies&theme=tokyonight" width="100%" alt="VerifiedMovies"/>
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gabrielrovesti&repo=VerifiedMovies&theme=tokyonight&cache_seconds=86400" width="100%" alt="VerifiedMovies"/>
         </a>
         <p><b>Blockchain Authentication System</b></p>
         <p>B.Sc. thesis project implementing Verifiable Credentials and Zero Knowledge Proofs for secure authentication</p>
@@ -343,13 +343,13 @@
 
 <div align="center">
   <a href="https://github.com/gabrielrovesti">
-    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats"/>
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://streak-stats.demolab.com/?user=gabrielrovesti&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=gabrielrovesti&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
 </div>
 
 <h3 align="center">🏆 Notable Achievements</h3>
@@ -549,5 +549,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="Footer wave"/>
 </div>
