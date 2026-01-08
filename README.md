@@ -309,18 +309,7 @@
   </table>
 </details>
 
-<h2 align="center">📊 GitHub Stats & Achievements</h2>
-
-<div align="center">
-  <a href="https://github.com/gabrielrovesti">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
-  </a>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://streak-stats.demolab.com?user=gabrielrovesti&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
-</div>
+<h2 align="center">📊 Stats & Achievements</h2>
 
 <h3 align="center">🏆 Notable Achievements</h3>
 
