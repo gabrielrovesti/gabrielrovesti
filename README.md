@@ -20,7 +20,7 @@
   
   <div align="left" style="margin-right: 400px;">
     <p>Merging technical expertise with pedagogical passion, I excel at developing robust solutions while simplifying complex concepts for diverse audiences. My approach is <i>"simple to grasp, deep to master"</i> - focusing on core concepts with meticulous attention to quality, efficiency, and accessibility.</p>
-    <p>Currently working as IT consultant at Technology Reply as backend developer and full-stack for banking related projects. My greatest passion remains teaching, where I've worked with learners ranging from those with specific learning challenges to university students in formal academic settings.</p>
+    <p>Currently working as IT consultant at Technology Reply as backend developer and full-stack for banking related projects. My greatest passion for a long time has been teaching, where I've worked with learners ranging from those with specific learning challenges to university students in formal academic settings.</p>
   </div>
 </div>
 
