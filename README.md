@@ -407,7 +407,7 @@
 <table align="center" border="0">
   <tr>
     <td width="50%">
-      <h4>🎯 Current Teaching Roles</h4>
+      <h4>🎯 Most Recent Teaching Roles</h4>
       <ul>
         <li><b>Coordination Tutor</b> - Mathematics Department UniPD</li>
         <li><b>Systems & Networks Lecturer</b> - ITIS Galileo Ferraris</li>
@@ -426,12 +426,6 @@
     </td>
   </tr>
 </table>
-
-<h3 align="center">💬 Testimonials</h3>
-<div align="center">
-  <p><i>"Very professional and knowledgeable! Great empathy and education in the approach with pupils! Definitely great satisfaction in learning with such a competent person, professional and also with great availability! Thank you Gabriel."</i></p>
-  <p><b>— Stefano I.</b> (Ex CEO & Entrepreneur)</p>
-</div>
 
 <h2 align="center">⚡ Fun Facts & Personal Interests</h2>
 
