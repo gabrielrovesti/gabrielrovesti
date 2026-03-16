@@ -88,10 +88,6 @@
       <ul>
         <li><b>IT Consultant</b> — Technology Reply, Padua<br>
         <i>Microservices, digital transformation, home banking solutions</i></li>
-        <li><b>Customer Service Manager</b> — Clesp S.r.l., Padua<br>
-        <i>Front office operations, team management, MySQL administration</i></li>
-        <li><b>Web Developer Intern</b> — Digife S.r.l., Ferrara<br>
-        <i>WordPress, e-commerce implementations</i></li>
         <li><b>Private Tutor & IT Consultant</b> — Freelance (2016 – present)<br>
         <i>10+ years, specialization in DSA/BES/ADHD learners</i></li>
       </ul>
@@ -328,7 +324,6 @@
         <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco"/>
         <img src="https://img.shields.io/badge/Cambridge_B2-012169?style=for-the-badge&logoColor=white" alt="Cambridge B2 First"/>
         <img src="https://img.shields.io/badge/MATLAB_Onramp-BB92AC?style=for-the-badge&logoColor=white" alt="MATLAB — MathWorks"/>
-        <img src="https://img.shields.io/badge/The_Odin_Project-D4A017?style=for-the-badge&logo=theodinproject&logoColor=white" alt="The Odin Project"/>
       </div>
     </td>
   </tr>
