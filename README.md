@@ -1,9 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=It's-a-me,%20Gabriel!&fontSize=42&animation=fadeIn&fontAlignY=36&desc=IT%20Consultant%20|%20Full%20Stack%20Developer%20|%20CS%20Teacher%20and%20Tutor%20&descAlignY=62&descAlign=50" width="100%" alt="Gabriel Rovesti header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Gabriel%20Rovesti&fontSize=48&animation=fadeIn&fontAlignY=36&desc=IT%20Consultant%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20Educator&descAlignY=62&descAlign=50" width="100%" alt="Gabriel Rovesti header"/>
 </div>
+
 <div align="center">
-  <p style="max-width:900px; text-align:left;">
-    <strong>Hi — I'm Gabriel Rovesti.</strong> IT consultant, full‑stack engineer and CS educator focused on accessibility, reliable systems and clear teaching. I build production services, teach Computer Science courses, and contribute open-source tools that lower the barrier to accessible software.
+  <p style="max-width:860px; text-align:center;">
+    IT consultant, full‑stack engineer, and CS educator. I build production services, teach Computer Science at university and high school level, and develop open-source tools focused on accessibility and inclusive design.
   </p>
 
   <p>
@@ -11,31 +12,34 @@
     <a href="https://gabrielrovesti.github.io/docs/CV%20Gabriel%20Rovesti.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/></a>
     <a href="https://www.linkedin.com/in/gabriel-rovesti-601404220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:rovestigabriel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/gabrielrovesti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://dev.to/gabrielrovesti" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
   </p>
 </div>
 
-<div align="center"> 
-  <h2>🧠 About Me</h2>
-  
-  <div align="left" style="margin-right: 400px;">
-    <p>Merging technical expertise with pedagogical passion, I excel at developing robust solutions while simplifying complex concepts for diverse audiences. My approach is <i>"simple to grasp, deep to master"</i> - focusing on core concepts with meticulous attention to quality, efficiency, and accessibility.</p>
-    <p>Currently working as IT consultant at Technology Reply as backend developer and full-stack for banking related projects. My greatest passion for a long time has been teaching, where I've worked with learners ranging from those with specific learning challenges to university students in formal academic settings.</p>
-  </div>
+---
+
+<h2 align="center">About Me</h2>
+
+<div align="center">
+  <p style="max-width:860px;">
+    Currently working as IT Consultant at <b>Technology Reply</b>, building microservices and home banking solutions. Alongside industry work, I teach <i>Systems & Networks</i> at ITIS Galileo Ferraris and serve as tutor and lecturer at the <b>University of Padua</b> across formal languages, computability theory, and accessibility. My work consistently sits at the intersection of reliable engineering, inclusive design, and clear communication.
+  </p>
 </div>
 
-<h3 align="center">Research & Focus Areas</h3>
+<h3 align="center">Focus Areas</h3>
 <div align="center">
   <p>
-    <kbd>♿ Web Accessibility & WCAG Compliance</kbd> 
-    <kbd>🔐 Cybersecurity & Cloud Computing</kbd> 
-    <kbd>🚀 DevOps & CI/CD Pipelines</kbd> 
-    <kbd>⛓️ Blockchain & DApps</kbd> 
-    <kbd>🏗️ Software Architecture</kbd> 
-    <kbd>🤖 ML Interpreters & Type Systems</kbd>
-    <kbd>👨‍🏫 Academic Teaching & Tutoring</kbd>
+    <kbd>♿ Web & Mobile Accessibility</kbd>
+    <kbd>🔐 Cybersecurity & Cloud</kbd>
+    <kbd>🚀 DevOps & CI/CD</kbd>
+    <kbd>⛓️ Blockchain & DApps</kbd>
+    <kbd>🏗️ Software Architecture</kbd>
+    <kbd>🤖 Type Systems & Functional PL</kbd>
+    <kbd>👨‍🏫 CS Education</kbd>
   </p>
 </div>
+
+---
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -73,75 +77,79 @@
   </tr>
 </table>
 
-<h2 align="center">🎯 Professional Experience</h2>
+---
+
+<h2 align="center">🎯 Experience</h2>
 
 <table align="center" border="0">
   <tr>
-    <td width="50%">
-      <h3 align="center">🎓 Academic Leadership</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Industry</h3>
       <ul>
-        <li><b>🎯 Coordination Tutor</b><br>University of Padua, Dept. of Mathematics (01/2025 - 09-2025)</li>
-        <li><b>🏫 Lecturer in Systems and Networks</b><br>ITIS Galileo Ferraris, Padua (09/2024 - 09/2025)</li>
-        <li><b>📚 Didactic Tutor, Automata & Formal Languages</b><br>University of Padua (01/2025 - 06-2025)</li>
-        <li><b>🧮 Didactic Tutor, Computability Theory</b><br>University of Padua (09/2024 - 01/2025)</li>
-        <li><b>♿ Inclusion Tutor & Accessibility Consultant</b><br>University of Padua (11/2023 - 09/2025)</li>
-        <li><b>💻 Didactic Tutor, Object Oriented Programming</b><br>University of Padua (09/2023 - 02/2024)</li>
+        <li><b>IT Consultant</b> — Technology Reply, Padua<br>
+        <i>Microservices, digital transformation, home banking solutions</i></li>
+        <li><b>Customer Service Manager</b> — Clesp S.r.l., Padua<br>
+        <i>Front office operations, team management, MySQL administration</i></li>
+        <li><b>Web Developer Intern</b> — Digife S.r.l., Ferrara<br>
+        <i>WordPress, e-commerce implementations</i></li>
+        <li><b>Private Tutor & IT Consultant</b> — Freelance (2016 – present)<br>
+        <i>10+ years, specialization in DSA/BES/ADHD learners</i></li>
       </ul>
     </td>
-    <td width="50%">
-      <h3 align="center">🚀 Industry Experience</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Academic</h3>
       <ul>
-        <li><b>⚙️ IT Consultant </b><br>Technology Reply, Padua (09/2025 - Present)<br>
-        <i> Microservices implementation, digital transformation, home banking solutions </i></li>
-        <li><b>👨‍💼 Customer Service Manager</b><br>Clesp S.r.l., Padua (07/2020 - 10/2021)<br>
-        <i>Front office operations, team management, MySQL administration</i></li>
-        <li><b>🌐 Web Developer Intern</b><br>Digife S.r.l., Ferrara (01/2019 - 02/2019)<br>
-        <i>WordPress site creation, e-commerce implementations</i></li>
-        <li><b>📚 Private Tutor & IT Consultant</b><br>Freelance (02/2016 - Present)<br>
-        <i>10+ years experience, DSA/BES/ADHD specialization</i></li>
+        <li><b>Coordination Tutor</b> — Mathematics Dept., UniPD</li>
+        <li><b>Lecturer, Systems & Networks</b> — ITIS Galileo Ferraris, Padua</li>
+        <li><b>Didactic Tutor, Automata & Formal Languages</b> — UniPD</li>
+        <li><b>Didactic Tutor, Computability Theory</b> — UniPD</li>
+        <li><b>Inclusion Tutor & Accessibility Consultant</b> — UniPD</li>
+        <li><b>Didactic Tutor, Object Oriented Programming</b> — UniPD</li>
       </ul>
+      <p align="center"><i>350h inclusion support · 150h didactic tutoring · 10+ years private teaching</i></p>
     </td>
   </tr>
 </table>
 
+---
+
 <h2 align="center">🚀 Featured Projects</h2>
 
-<h3 align="center">🎓 Thesis & Research Projects</h3>
+<h3 align="center">Thesis & Research</h3>
 
 <table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/gabrielrovesti/AccessibleHub">AccessibleHub</a></h3>
-      <p><b>M.Sc. Thesis: Mobile Accessibility Learning Toolkit</b></p>
-      <p>React Native app implementing WCAG 2.2, MCAG, and WCAG2Mobile guidelines with interactive learning modules for developers</p>
+      <p><b>M.Sc. Thesis — Mobile Accessibility Learning Toolkit</b></p>
+      <p>React Native app implementing WCAG 2.2, MCAG and WCAG2Mobile guidelines with interactive learning modules for developers</p>
       <div>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/WCAG_2.2-005A9C?style=flat-square&logoColor=white" alt="WCAG 2.2"/>
-        <img src="https://img.shields.io/badge/Accessibility-FF5722?style=flat-square&logoColor=white" alt="Accessibility"/>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/gabrielrovesti/TinyML-Interpreter">TinyML-Interpreter</a></h3>
       <p><b>ML Interpreter with Hindley-Milner Type Inference</b></p>
-      <p>Complete functional programming language interpreter implementing advanced type theory concepts</p>
+      <p>Complete functional language interpreter implementing Hindley-Milner type inference and advanced type theory concepts in F#</p>
       <div>
         <img src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="F#"/>
         <img src="https://img.shields.io/badge/Type_Theory-4B8BBE?style=flat-square&logoColor=white" alt="Type Theory"/>
-        <img src="https://img.shields.io/badge/Functional-A100FF?style=flat-square&logo=coursera&logoColor=white" alt="Functional"/>
+        <img src="https://img.shields.io/badge/Functional-A100FF?style=flat-square&logoColor=white" alt="Functional"/>
       </div>
     </td>
   </tr>
 </table>
 
-<h3 align="center">💼 Production-Ready Applications</h3>
+<h3 align="center">Production Applications</h3>
 
 <table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/gabrielrovesti/event-analyzer">Event Analyzer</a></h3>
-      <p><b>Reactive Real-time Event Processing System</b></p>
-      <p>Spring WebFlux, MongoDB, Redis with reactive programming patterns for high-throughput data processing</p>
+      <p><b>Reactive Real-time Event Processing</b></p>
+      <p>Spring WebFlux, MongoDB, Redis — reactive patterns for high-throughput data processing</p>
       <div>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -151,8 +159,8 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/gabrielrovesti/PredictSense">PredictSense</a></h3>
-      <p><b>ML-based Anomaly Detection System</b></p>
-      <p>Microservices architecture with FastAPI, Streamlit, RabbitMQ for real-time anomaly detection</p>
+      <p><b>ML-based Anomaly Detection</b></p>
+      <p>Microservices with FastAPI, Streamlit, RabbitMQ for real-time anomaly detection</p>
       <div>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -169,13 +177,13 @@
       <div>
         <img src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="F#"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-        <img src="https://img.shields.io/badge/Functional-A100FF?style=flat-square&logo=coursera&logoColor=white" alt="Functional"/>
+        <img src="https://img.shields.io/badge/Functional-A100FF?style=flat-square&logoColor=white" alt="Functional"/>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/gabrielrovesti/FlutterRustImageFX">FlutterRustImageFX</a></h3>
-      <p><b>Cross-platform Photo Editing with Rust Performance</b></p>
-      <p>Flutter UI with high-performance Rust filters compiled to WebAssembly</p>
+      <p><b>Cross-platform Photo Editing</b></p>
+      <p>Flutter UI with high-performance Rust image filters compiled to WebAssembly</p>
       <div>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
@@ -185,320 +193,184 @@
   </tr>
 </table>
 
-<h3 align="center">🔬 Academic & Research Contributions</h3>
-
 <details>
-  <summary><b>📚 Teaching Materials & Academic Projects</b></summary>
+  <summary><b>📚 Academic, Teaching & Utility Projects</b></summary>
   <table align="center" border="0">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/unipd-bachelor-master-computer-science-notes">UniPD Study Notes Collection</a></h3>
-        <p><b>Comprehensive Computer Science Study Materials</b></p>
-        <p>Complete collection of organized notes for University of Padua CS programs, including Cybersecurity and Data Science tracks</p>
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/unipd-bachelor-master-computer-science-notes">UniPD CS Study Notes</a></h3>
+        <p>Comprehensive LaTeX notes for UniPD CS Bachelor & Master programs (Cybersecurity, Data Science tracks)</p>
         <div>
           <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
-          <img src="https://img.shields.io/badge/Academia-FF6B6B?style=flat-square&logoColor=white" alt="Academia"/>
           <img src="https://img.shields.io/badge/Open_Source-4CAF50?style=flat-square&logoColor=white" alt="Open Source"/>
         </div>
       </td>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://github.com/gabrielrovesti/university-accessibility-toolkit">University Accessibility Toolkit</a></h3>
-        <p><b>WCAG 2.1 AA Compliant University Templates</b></p>
-        <p>Practical toolkit for accessible university admission tests and documents with European Accessibility Act 2025 compliance</p>
+        <p>WCAG 2.1 AA compliant templates for university admission tests, aligned with European Accessibility Act 2025</p>
         <div>
           <img src="https://img.shields.io/badge/WCAG_2.1-005A9C?style=flat-square&logoColor=white" alt="WCAG 2.1"/>
-          <img src="https://img.shields.io/badge/Accessibility-FF5722?style=flat-square&logoColor=white" alt="Accessibility"/>
           <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/WNMA-UAV-Route-Planning-Survey">WNMA UAV Route Planning Survey</a></h3>
-        <p><b>Academic Survey on UAV Route Planning</b></p>
-        <p>Comprehensive research on UAV route planning strategies for wireless networks and mobile applications</p>
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/VerifiedMovies">VerifiedMovies</a></h3>
+        <p>B.Sc. thesis — Verifiable Credentials and Zero Knowledge Proofs for secure authentication on Ethereum</p>
         <div>
-          <img src="https://img.shields.io/badge/Research-9C27B0?style=flat-square&logoColor=white" alt="Research"/>
-          <img src="https://img.shields.io/badge/UAV-2196F3?style=flat-square&logoColor=white" alt="UAV"/>
-          <img src="https://img.shields.io/badge/Wireless-FF9800?style=flat-square&logoColor=white" alt="Wireless"/>
+          <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain-dot-com&logoColor=white" alt="Blockchain"/>
+          <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/concurrent-graph-lcd">Concurrent Graph Processing</a></h3>
-        <p><b>Advanced Concurrency Patterns in Erlang</b></p>
-        <p>Demonstration of different approaches to concurrent and distributed graph processing systems</p>
-        <div>
-          <img src="https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white" alt="Erlang"/>
-          <img src="https://img.shields.io/badge/Concurrency-FFC107?style=flat-square&logoColor=black" alt="Concurrency"/>
-          <img src="https://img.shields.io/badge/Distributed_Systems-673AB7?style=flat-square&logoColor=white" alt="Distributed"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/wedding-seating-optimization-csp">Wedding Seating Optimization</a></h3>
-        <p><b>Constraint Satisfaction Problem in Prolog</b></p>
-        <p>Advanced constraint programming solution for optimal wedding table assignments</p>
-        <div>
-          <img src="https://img.shields.io/badge/Prolog-E61B23?style=flat-square&logo=swi-prolog&logoColor=white" alt="Prolog"/>
-          <img src="https://img.shields.io/badge/CSP-607D8B?style=flat-square&logoColor=white" alt="CSP"/>
-          <img src="https://img.shields.io/badge/Logic_Programming-3F51B5?style=flat-square&logoColor=white" alt="Logic Programming"/>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/numerical-analysis-unipd-projects">Numerical Analysis Projects</a></h3>
-        <p><b>MATLAB Scientific Computing Collection</b></p>
-        <p>Polynomial interpolation, matrix eigenvalue computation, wave equation solvers, and more advanced numerical methods</p>
-        <div>
-          <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
-          <img src="https://img.shields.io/badge/Numerical_Analysis-FF6F00?style=flat-square&logoColor=white" alt="Numerical Analysis"/>
-          <img src="https://img.shields.io/badge/Scientific_Computing-52B0E7?style=flat-square&logoColor=white" alt="Scientific Computing"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary><b>🔧 Technical Tools & Utilities</b></summary>
-  <table align="center" border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/spotify-to-ytmusic-transfer">Spotify to YouTube Music Transfer</a></h3>
-        <p><b>High-Success Playlist Migration Tool</b></p>
-        <p>Python script with 97% success rate (2151/2205 tracks) for transferring Spotify playlists to YouTube Music</p>
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/spotify-to-ytmusic-transfer">Spotify → YouTube Music Transfer</a></h3>
+        <p>Python migration script — 97% success rate (2151/2205 tracks transferred)</p>
         <div>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/Spotify_API-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"/>
-          <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Music"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/concurrent-graph-lcd">Concurrent Graph Processing</a></h3>
+        <p>Concurrent and distributed graph processing patterns in Erlang</p>
+        <div>
+          <img src="https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white" alt="Erlang"/>
+          <img src="https://img.shields.io/badge/Distributed_Systems-673AB7?style=flat-square&logoColor=white" alt="Distributed"/>
         </div>
       </td>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://github.com/gabrielrovesti/typst-dev-cv-template">Typst Developer CV Template</a></h3>
-        <p><b>Modern CV Template for Developers</b></p>
         <p>Clean, minimal CV template built with Typst for the modern developer workflow</p>
         <div>
           <img src="https://img.shields.io/badge/Typst-239DAD?style=flat-square&logo=typst&logoColor=white" alt="Typst"/>
-          <img src="https://img.shields.io/badge/Template-FF6B6B?style=flat-square&logoColor=white" alt="Template"/>
-          <img src="https://img.shields.io/badge/Developer_Tools-4CAF50?style=flat-square&logoColor=white" alt="Developer Tools"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/pdf-generator-service">PDF Generator Service</a></h3>
-        <p><b>Professional PDF Generation Service</b></p>
-        <p>TypeScript service for dynamic PDF reports with ChartJS integration, built as technical interview PoC</p>
-        <div>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-          <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js"/>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/VerifiedMovies">VerifiedMovies</a></h3>
-        <p><b>Blockchain Authentication System</b></p>
-        <p>B.Sc. thesis project implementing Verifiable Credentials and Zero Knowledge Proofs for secure authentication</p>
-        <div>
-          <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain-dot-com&logoColor=white" alt="Blockchain"/>
-          <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3-dot-js&logoColor=white" alt="Web3"/>
-          <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
         </div>
       </td>
     </tr>
   </table>
 </details>
 
-<h2 align="center">📊 Stats & Achievements</h2>
+---
 
-<h3 align="center">🏆 Notable Achievements</h3>
+<h2 align="center">📊 GitHub Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielrovesti&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
 
 <table align="center" border="0">
   <tr>
     <td align="center" width="160px">
       <div style="font-size: 28px; margin-bottom: 10px;">🎓</div>
-      <div style="font-weight: bold;">M.Sc. Thesis on Accessibility</div>
-      <div style="font-size: 14px;">WCAG-compliant toolkit development</div>
+      <div style="font-weight: bold;">M.Sc. — 104/110</div>
+      <div style="font-size: 14px;">Thesis on mobile accessibility</div>
     </td>
     <td align="center" width="160px">
       <div style="font-size: 28px; margin-bottom: 10px;">🏆</div>
-      <div style="font-weight: bold;">Top 50 STEM Students (39th by merit)</div>
-      <div style="font-size: 14px;">University of Padua 23/24</div>
-    </td>
-    <td align="center" width="160px">
-      <div style="font-size: 28px; margin-bottom: 10px;">♿</div>
-      <div style="font-weight: bold;">Accessibility Advocate</div>
-      <div style="font-size: 14px;">100h+ Inclusion Tutoring</div>
-    </td>
-    <td align="center" width="160px">
-      <div style="font-size: 28px; margin-bottom: 10px;">👨‍🏫</div>
-      <div style="font-weight: bold;">Multi-level Educator</div>
-      <div style="font-size: 14px;">University + High School Teaching</div>
+      <div style="font-weight: bold;">Top 50 STEM Students</div>
+      <div style="font-size: 14px;">39th by merit — UniPD 23/24</div>
     </td>
     <td align="center" width="160px">
       <div style="font-size: 28px; margin-bottom: 10px;">🥈</div>
       <div style="font-weight: bold;">Web Accessibility Competition</div>
       <div style="font-size: 14px;">Runner-up</div>
     </td>
+    <td align="center" width="160px">
+      <div style="font-size: 28px; margin-bottom: 10px;">♿</div>
+      <div style="font-weight: bold;">350h Inclusion Support</div>
+      <div style="font-size: 14px;">UniPD Accessibility Services</div>
+    </td>
+    <td align="center" width="160px">
+      <div style="font-size: 28px; margin-bottom: 10px;">👨‍🏫</div>
+      <div style="font-weight: bold;">10+ Years Teaching</div>
+      <div style="font-size: 14px;">University · High School · Private</div>
+    </td>
   </tr>
 </table>
+
+---
 
 <h2 align="center">🎓 Education & Certifications</h2>
 
 <table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Academic Qualifications</h3>
+      <h3 align="center">Degrees</h3>
       <ul>
         <li>
-          <h4>M.Sc. Computer Science (2023-2025)</h4>
-          <p>University of Padua<br>
-          Grade: 104/110<br>
-          <i>Major: Internet, Mobile and Security</i><br>
-          <i>Minor: Innovation and Entrepreneurship in ICT</i><br>
-          <i>Thesis: <strong>Designing an accessibility learning toolkit: bridging the gap between guidelines and implementation</strong></i><br>
-          <i>Focus: WCAG 2.2, MCAG, WCAG2Mobile compliance</i></p>
+          <b>M.Sc. Computer Science</b> — University of Padua (2023–2025)<br>
+          Grade: 104/110 · Major: Internet, Mobile & Security<br>
+          <i>Thesis: Designing an accessibility learning toolkit — bridging the gap between guidelines and implementation</i>
         </li>
         <li>
-          <h4>B.Sc. Computer Science (2020-2023)</h4>
-          <p>University of Padua<br>
+          <b>B.Sc. Computer Science</b> — University of Padua (2020–2023)<br>
           Grade: 98/110<br>
-          <i>Thesis: VerifiedMovies - security and authentication using blockchain</i></p>
-        </li>
-        <li>
-          <h4>Diploma in Computer Science (2015-2020)</h4>
-          <p>I.I.S Polo Tecnico di Adria<br>
-          Grade: 100/100</p>
+          <i>Thesis: VerifiedMovies — blockchain-based authentication with ZKP</i>
         </li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Recent Certifications & Skills</h3>
+      <h3 align="center">Certifications</h3>
       <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 10px;">
-        <img src="https://img.shields.io/badge/Kubernetes_LFS158-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+        <img src="https://img.shields.io/badge/Kubernetes_LFS158-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes LFS158 — Linux Foundation"/>
         <img src="https://img.shields.io/badge/Datadog_Fundamentals-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
-        <img src="https://img.shields.io/badge/The_Odin_Project-D4A017?style=for-the-badge&logo=theodinproject&logoColor=white" alt="The Odin Project"/>
-        <img src="https://img.shields.io/badge/Lightbend_Reactive-E25A1C?style=for-the-badge&logoColor=white" alt="Lightbend"/>
+        <img src="https://img.shields.io/badge/Lightbend_Reactive-E25A1C?style=for-the-badge&logoColor=white" alt="Lightbend Reactive Architecture"/>
         <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco"/>
-        <img src="https://img.shields.io/badge/WCAG_Expert-005A9C?style=for-the-badge&logoColor=white" alt="WCAG"/>
-        <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white" alt="Scrum"/>
-        <img src="https://img.shields.io/badge/Six_Sigma-FFBE00?style=for-the-badge&logoColor=black" alt="Six Sigma"/>
-        <img src="https://img.shields.io/badge/MATLAB-BB92AC?style=for-the-badge&logoColor=white" alt="MATLAB"/>
-        <img src="https://img.shields.io/badge/Cambridge_B2-012169?style=for-the-badge&logoColor=white" alt="Cambridge"/>
+        <img src="https://img.shields.io/badge/Cambridge_B2-012169?style=for-the-badge&logoColor=white" alt="Cambridge B2 First"/>
+        <img src="https://img.shields.io/badge/MATLAB_Onramp-BB92AC?style=for-the-badge&logoColor=white" alt="MATLAB — MathWorks"/>
+        <img src="https://img.shields.io/badge/The_Odin_Project-D4A017?style=for-the-badge&logo=theodinproject&logoColor=white" alt="The Odin Project"/>
       </div>
-      <h4 align="center" style="margin-top: 20px;">Specialized Knowledge</h4>
-      <ul>
-        <li><b>♿ Digital Accessibility:</b> WCAG 2.2, ARIA, Section 508, European Accessibility Act</li>
-        <li><b>🔬 Type Theory:</b> Hindley-Milner inference, ML-style type systems</li>
-        <li><b>⛓️ Blockchain:</b> Smart contracts, DApps, Zero Knowledge Proofs</li>
-        <li><b>🎯 Inclusive Design:</b> DSA/BES/ADHD support, universal design principles</li>
-        <li><b>📚 Academic Writing:</b> LaTeX, Typst, research methodology</li>
-      </ul>
     </td>
   </tr>
 </table>
 
-<h2 align="center">📚 Teaching & Academic Contributions</h2>
+---
+
+<h2 align="center">⚡ Beyond the Code</h2>
 
 <div align="center">
-  <p><b>📊 Teaching Impact:</b> 10+ years private tutoring • 350 hours university inclusion support • 150 hours didactic tutoring • Systems & Networks lecturer</p>
+  <p>
+    <b>🥋 Brown belt in Shotokan karate</b> — nine years of practice &nbsp;·&nbsp;
+    <b>📕 Poetry reader and writer</b> — depth over noise &nbsp;·&nbsp;
+    <b>🎵 Musicophile</b> — funk, soul, Michael Jackson &nbsp;·&nbsp;
+    <b>🎮 Retro gaming collector</b> and game design enthusiast
+  </p>
 </div>
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%">
-      <h4>🎯 Most Recent Teaching Roles</h4>
-      <ul>
-        <li><b>Coordination Tutor</b> - Mathematics Department UniPD</li>
-        <li><b>Systems & Networks Lecturer</b> - ITIS Galileo Ferraris</li>
-        <li><b>Automata & Formal Languages Tutor</b> - Computer Science UniPD</li>
-        <li><b>Accessibility Consultant</b> - Inclusion Services UniPD</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>📖 Teaching Materials Created</h4>
-      <ul>
-        <li><b>Comprehensive study notes</b> for CS Bachelor & Master programs</li>
-        <li><b>Accessibility toolkits</b> for developers and institutions</li>
-        <li><b>Interactive learning modules</b> for formal languages and automata</li>
-        <li><b>Specialized resources</b> for students with learning differences</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+---
 
-<h2 align="center">⚡ Fun Facts & Personal Interests</h2>
+<h2 align="center">📫 Get in Touch</h2>
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%">
-      <ul>
-        <li><b>🤖 Lifelong learner</b> constantly exploring new technologies and research areas</li>
-        <li><b>♿ Accessibility advocate</b> passionate about inclusive design and universal access</li>
-        <li><b>🗺️ Currently in Padua</b>, originally from Serravalle (Ferrara), born in Bologna</li>
-        <li><b>📕 Passionate writer and poetry lover</b> - depth over superficiality</li>
-        <li><b>🎵 Musicophile</b> with love for funk/soul - Michael Jackson enthusiast</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <ul>
-        <li><b>🎮 Game design enthusiast</b> and retro gaming collector</li>
-        <li><b>🎨 Art lover</b> drawn to unique creativity and meticulous craftsmanship</li>
-        <li><b>🥋 Karateka</b> with brown belt (9 years Shotokan style)</li>
-        <li><b>🚴‍♂️ Cycling enthusiast</b> from Ferrara, "city of bicycles"</li>
-        <li><b>🚶‍♂️ "Forrest Gump of walking"</b> - therapeutic evening strolls</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">🎯 Current Focus & Future Goals</h2>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="33%">
-        <h4>🔬 Research Interests</h4>
-        <p>Accessibility technology, type systems, functional programming paradigms, and inclusive design methodologies</p>
-      </td>
-      <td align="center" width="33%">
-        <h4>📚 Academic Pursuits</h4>
-        <p>Completing M.Sc. thesis on accessibility toolkits, expanding teaching roles, contributing to open-source accessibility projects</p>
-      </td>
-      <td align="center" width="33%">
-        <h4>💼 Professional Development</h4>
-        <p>Bridging academia and industry in accessibility consulting, advanced type theory applications, distributed systems</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">📫 Let's Connect!</h2>
-
-<div align="center" style="margin-bottom: 30px;">
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/gabriel-rovesti-601404220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:rovestigabriel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/gabrielrovesti" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://gabrielrovesti.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://dev.to/gabrielrovesti" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
 </div>
 
 <div align="center">
-  <p><i>"Making technology accessible to everyone, one line of code at a time"</i></p>
+  <i>Good software works for everyone — that's not an option, it's a baseline.</i>
 </div>
 
 <div align="center">
