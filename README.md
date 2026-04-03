@@ -22,7 +22,7 @@
 
 <div align="center">
   <p style="max-width:860px;">
-    Currently working as IT Consultant at <b>Technology Reply</b>, building microservices and home banking solutions. Alongside industry work, I teach <i>Systems & Networks</i> at ITIS Galileo Ferraris and serve as tutor and lecturer at the <b>University of Padua</b> across formal languages, computability theory, and accessibility. My work consistently sits at the intersection of reliable engineering, inclusive design, and clear communication.
+    Currently working as IT Consultant at <b>Technology Reply</b>, building microservices and home banking solutions. Alongside industry work, I have taught for many years as a private tutor, a teacher in high school and served as tutor at the <b>University of Padua</b> across formal languages, computability theory, and accessibility. My work consistently sits at the intersection of reliable engineering, inclusive design, and clear communication.
   </p>
 </div>
 
