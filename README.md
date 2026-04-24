@@ -73,7 +73,7 @@
       <img src="https://img.shields.io/badge/English-C1-3B82F6?style=flat-square" alt="English C1"/><br>
       <img src="https://img.shields.io/badge/French-B1-4F46E5?style=flat-square" alt="French B1"/>
       <img src="https://img.shields.io/badge/Spanish-A2-EC4899?style=flat-square" alt="Spanish A2"/>
-      <img src="https://img.shields.io/badge/Germah-A2-B848EC?style=flat-square" alt="German A2"/>
+      <img src="https://img.shields.io/badge/German-A2-B848EC?style=flat-square" alt="German A2"/>
     </td>
   </tr>
 </table>
