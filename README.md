@@ -4,7 +4,7 @@
 
 <div align="center">
   <p style="max-width:860px; text-align:center;">
-    IT consultant, full‑stack engineer, and CS educator. I build production services, teach Computer Science at university and high school level, and develop open-source tools focused on accessibility and inclusive design.
+    IT consultant, full-stack engineer, and CS educator. I build production services, teach Computer Science at university and high school level, and develop open-source tools focused on accessibility and inclusive design.
   </p>
 
   <p>
@@ -22,7 +22,7 @@
 
 <div align="center">
   <p style="max-width:860px;">
-    Currently working as IT Consultant at <b>Technology Reply</b>, building microservices and home banking solutions. Alongside industry work, I have taught for many years as a private tutor, a teacher in high school and served as tutor at the <b>University of Padua</b> across formal languages, computability theory, and accessibility. My work consistently sits at the intersection of reliable engineering, inclusive design, and clear communication.
+    Currently working as IT Consultant at <b>Technology Reply</b>, building microservices and backend platforms for the Generali insurance group. Alongside industry work, I have taught for many years as a private tutor, a teacher in high school and served as tutor at the <b>University of Padua</b> across formal languages, computability theory, and accessibility. My work consistently sits at the intersection of reliable engineering, inclusive design, and clear communication.
   </p>
 </div>
 
@@ -34,7 +34,8 @@
     <kbd>🚀 DevOps & CI/CD</kbd>
     <kbd>⛓️ Blockchain & DApps</kbd>
     <kbd>🏗️ Software Architecture</kbd>
-    <kbd>🤖 Type Systems & Functional PL</kbd>
+    <kbd>🤖 AI Agents & MCP</kbd>
+    <kbd>⚗️ Type Systems & Functional PL</kbd>
     <kbd>👨‍🏫 CS Education</kbd>
   </p>
 </div>
@@ -46,8 +47,9 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="25%"><b>Core Languages</b><br><img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,rust,solidity" alt="Core Languages" /></td>
-    <td align="center" width="25%"><b>Functional & Academic</b><br><img src="https://skillicons.dev/icons?i=kotlin,dart,matlab" alt="Functional Languages" /><br>
+    <td align="center" width="25%"><b>Functional & Academic</b><br><img src="https://skillicons.dev/icons?i=kotlin,dart,go,matlab" alt="Functional Languages" /><br>
     <img src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="F#"/>
+    <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir"/>
     <img src="https://img.shields.io/badge/Prolog-E61B23?style=flat-square&logo=swi-prolog&logoColor=white" alt="Prolog"/>
     <img src="https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white" alt="Erlang"/>
     <img src="https://img.shields.io/badge/Typst-239DAD?style=flat-square&logo=typst&logoColor=white" alt="Typst"/>
@@ -56,8 +58,15 @@
     <td align="center" width="25%"><b>Backend & Data</b><br><img src="https://skillicons.dev/icons?i=spring,dotnet,mysql,postgres,mongodb,redis" alt="Backend Technologies" /></td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps & Cloud</b><br><img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,gitlab,jenkins" alt="DevOps Tools" /></td>
+    <td align="center"><b>DevOps & Cloud</b><br><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,jenkins" alt="DevOps Tools" /><br>
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+    <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
+    <img src="https://img.shields.io/badge/IBM_Instana-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Instana"/>
+    </td>
     <td align="center"><b>AI & Research</b><br><img src="https://skillicons.dev/icons?i=tensorflow,graphql,arduino,matlab,sass" alt="AI & Research" /><br>
+    <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=white" alt="Model Context Protocol"/>
+    <img src="https://img.shields.io/badge/AI_Agents-10B981?style=flat-square&logoColor=white" alt="AI Agents"/>
+    <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq"/>
     <img src="https://img.shields.io/badge/Type_Theory-4B8BBE?style=flat-square&logoColor=white" alt="Type Theory"/>
     <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WASM"/>
     </td>
@@ -88,9 +97,9 @@
       <h3 align="center">🚀 Industry</h3>
       <ul>
         <li><b>IT Consultant</b> — Technology Reply, Padua<br>
-        <i>Microservices, digital transformation, home banking solutions</i></li>
+        <i>Backend microservices for Generali insurance group · Spring Boot 3 migrations · Kubernetes/Jenkins CI/CD · Oracle SQL · AWS · incident management via BMC Helix · observability with Grafana, Splunk & IBM Instana</i></li>
         <li><b>Private Tutor & IT Consultant</b> — Freelance (2016 – present)<br>
-        <i>10+ years, specialization in DSA/BES/ADHD learners</i></li>
+        <i>10+ years, specialization in DSA/BES/ADHD learners · startup tech advisory</i></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -190,6 +199,55 @@
   </tr>
 </table>
 
+<h3 align="center">2025–2026 Personal Projects</h3>
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/mini_astarte">mini-astarte</a></h3>
+      <p><b>Local IoT Platform in Elixir</b></p>
+      <p>Single-tenant IoT platform inspired by Astarte — MQTT + HTTP ingest, SQLite storage, built entirely in Elixir</p>
+      <div>
+        <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir"/>
+        <img src="https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipse-mosquitto&logoColor=white" alt="MQTT"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/web-sentinel">web-sentinel</a></h3>
+      <p><b>Security & Accessibility Auditing Extension</b></p>
+      <p>Chrome MV3 extension — live element highlighting, dual score gauges, WCAG + security vulnerability audit, exportable HTML reports</p>
+      <div>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome MV3"/>
+        <img src="https://img.shields.io/badge/WCAG-005A9C?style=flat-square&logoColor=white" alt="WCAG"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/grab">grab</a></h3>
+      <p><b>Desktop Music Downloader</b></p>
+      <p>Native desktop app — search, preview, download MP3s via FastAPI + yt-dlp + pywebview, zero browser dependency</p>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="yt-dlp"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/ai-agent-skills">ai-agent-skills</a></h3>
+      <p><b>Cross-provider Agent Skill Library</b></p>
+      <p>Reusable skill collection for Claude Code, Codex CLI and other AI providers — portable agent workflow primitives</p>
+      <div>
+        <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=white" alt="MCP"/>
+        <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+        <img src="https://img.shields.io/badge/AI_Agents-10B981?style=flat-square&logoColor=white" alt="AI Agents"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
 <details>
   <summary><b>📚 Academic, Teaching & Utility Projects</b></summary>
   <table align="center" border="0">
@@ -232,9 +290,10 @@
     <tr>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://github.com/gabrielrovesti/concurrent-graph-lcd">Concurrent Graph Processing</a></h3>
-        <p>Concurrent and distributed graph processing patterns in Erlang</p>
+        <p>Concurrent and distributed graph processing patterns in Erlang and Go</p>
         <div>
           <img src="https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white" alt="Erlang"/>
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
           <img src="https://img.shields.io/badge/Distributed_Systems-673AB7?style=flat-square&logoColor=white" alt="Distributed"/>
         </div>
       </td>
@@ -319,10 +378,19 @@
     <td width="50%" valign="top">
       <h3 align="center">Certifications</h3>
       <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 10px;">
+        <img src="https://img.shields.io/badge/MCP_Advanced-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic MCP Advanced Topics"/>
+        <img src="https://img.shields.io/badge/MCP_Intro-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Introduction to MCP"/>
+        <img src="https://img.shields.io/badge/Claude_Code_in_Action-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action"/>
         <img src="https://img.shields.io/badge/Kubernetes_LFS158-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes LFS158 — Linux Foundation"/>
+        <img src="https://img.shields.io/badge/Kubernetes_Hands--on-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes for the Absolute Beginners — Udemy"/>
+        <img src="https://img.shields.io/badge/Microservices_Design-FF6F61?style=for-the-badge&logoColor=white" alt="Design Microservices Architecture — Udemy"/>
+        <img src="https://img.shields.io/badge/AI_A--Z_2026-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence A-Z 2026 — Udemy"/>
+        <img src="https://img.shields.io/badge/GitHub_Copilot_Pro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot Beginner to Pro — Udemy"/>
+        <img src="https://img.shields.io/badge/FastAPI_2026-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Complete Course 2026 — Udemy"/>
         <img src="https://img.shields.io/badge/Datadog_Fundamentals-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
         <img src="https://img.shields.io/badge/Lightbend_Reactive-E25A1C?style=for-the-badge&logoColor=white" alt="Lightbend Reactive Architecture"/>
         <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco"/>
+        <img src="https://img.shields.io/badge/Berlitz_German_A2-B848EC?style=for-the-badge&logoColor=white" alt="Berlitz German A2"/>
         <img src="https://img.shields.io/badge/Cambridge_B2-012169?style=for-the-badge&logoColor=white" alt="Cambridge B2 First"/>
         <img src="https://img.shields.io/badge/MATLAB_Onramp-BB92AC?style=for-the-badge&logoColor=white" alt="MATLAB — MathWorks"/>
       </div>
