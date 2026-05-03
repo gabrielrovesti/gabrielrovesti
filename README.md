@@ -376,23 +376,17 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Certifications</h3>
-      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 10px;">
-        <img src="https://img.shields.io/badge/MCP_Advanced-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic MCP Advanced Topics"/>
-        <img src="https://img.shields.io/badge/MCP_Intro-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Introduction to MCP"/>
-        <img src="https://img.shields.io/badge/Claude_Code_in_Action-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action"/>
-        <img src="https://img.shields.io/badge/Kubernetes_LFS158-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes LFS158 — Linux Foundation"/>
-        <img src="https://img.shields.io/badge/Kubernetes_Hands--on-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes for the Absolute Beginners — Udemy"/>
-        <img src="https://img.shields.io/badge/Microservices_Design-FF6F61?style=for-the-badge&logoColor=white" alt="Design Microservices Architecture — Udemy"/>
-        <img src="https://img.shields.io/badge/AI_A--Z_2026-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence A-Z 2026 — Udemy"/>
-        <img src="https://img.shields.io/badge/GitHub_Copilot_Pro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot Beginner to Pro — Udemy"/>
-        <img src="https://img.shields.io/badge/FastAPI_2026-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Complete Course 2026 — Udemy"/>
-        <img src="https://img.shields.io/badge/Datadog_Fundamentals-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
-        <img src="https://img.shields.io/badge/Lightbend_Reactive-E25A1C?style=for-the-badge&logoColor=white" alt="Lightbend Reactive Architecture"/>
-        <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco"/>
-        <img src="https://img.shields.io/badge/Berlitz_German_A2-B848EC?style=for-the-badge&logoColor=white" alt="Berlitz German A2"/>
-        <img src="https://img.shields.io/badge/Cambridge_B2-012169?style=for-the-badge&logoColor=white" alt="Cambridge B2 First"/>
-        <img src="https://img.shields.io/badge/MATLAB_Onramp-BB92AC?style=for-the-badge&logoColor=white" alt="MATLAB — MathWorks"/>
-      </div>
+        <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 10px;">
+          <img src="https://img.shields.io/badge/MCP_Advanced-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic MCP Advanced Topics"/>
+          <img src="https://img.shields.io/badge/MCP_Intro-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Introduction to MCP"/>
+          <img src="https://img.shields.io/badge/Claude_Code_in_Action-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action"/>
+          <img src="https://img.shields.io/badge/Kubernetes_LFS158-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes LFS158 — Linux Foundation"/>
+          <img src="https://img.shields.io/badge/Datadog_Kubernetes-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog Kubernetes Fundamentals"/>
+          <img src="https://img.shields.io/badge/Lightbend_Reactive-E25A1C?style=for-the-badge&logoColor=white" alt="Lightbend Reactive Architecture"/>
+          <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco"/>
+          <img src="https://img.shields.io/badge/Berlitz_German_A2-B848EC?style=for-the-badge&logoColor=white" alt="Berlitz German A2"/>
+          <img src="https://img.shields.io/badge/Cambridge_B2-012169?style=for-the-badge&logoColor=white" alt="Cambridge B2 First"/>
+        </div>
     </td>
   </tr>
 </table>
