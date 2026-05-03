@@ -65,8 +65,6 @@
     <td align="center"><b>AI & Research</b><br><img src="https://skillicons.dev/icons?i=tensorflow,graphql,arduino,matlab,sass" alt="AI & Research" /><br>
     <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=white" alt="Model Context Protocol"/>
     <img src="https://img.shields.io/badge/AI_Agents-10B981?style=flat-square&logoColor=white" alt="AI Agents"/>
-    <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq"/>
-    <img src="https://img.shields.io/badge/Type_Theory-4B8BBE?style=flat-square&logoColor=white" alt="Type Theory"/>
     <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WASM"/>
     </td>
     <td align="center"><b>Accessibility & Standards</b><br>
