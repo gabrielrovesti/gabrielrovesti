@@ -307,18 +307,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielrovesti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrovesti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielrovesti&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 <h2 align="center">🏆 Achievements</h2>
 
 <table align="center" border="0">
