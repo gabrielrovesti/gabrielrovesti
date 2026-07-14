@@ -4,7 +4,7 @@
 
 <div align="center">
   <p style="max-width:860px; text-align:center;">
-    IT consultant, full-stack engineer, and CS educator. I build production services, teach Computer Science at university and high school level, and develop open-source tools focused on accessibility and inclusive design.
+    IT consultant, backend engineer, and CS educator. I build production services, teach Computer Science at university and high school level, and develop open-source tools focused on accessibility and inclusive design.
   </p>
 
   <p>
@@ -49,8 +49,6 @@
     <td align="center" width="25%"><b>Functional & Academic</b><br><img src="https://skillicons.dev/icons?i=kotlin,dart,go,matlab" alt="Functional Languages" /><br>
     <img src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="F#"/>
     <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir"/>
-    <img src="https://img.shields.io/badge/Prolog-E61B23?style=flat-square&logo=swi-prolog&logoColor=white" alt="Prolog"/>
-    <img src="https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white" alt="Erlang"/>
     <img src="https://img.shields.io/badge/Typst-239DAD?style=flat-square&logo=typst&logoColor=white" alt="Typst"/>
     </td>
     <td align="center" width="25%"><b>Frontend & Mobile</b><br><img src="https://skillicons.dev/icons?i=html,css,react,angular,flutter,bootstrap" alt="Frontend Technologies" /></td>
@@ -103,11 +101,9 @@
       <h3 align="center">🎓 Academic</h3>
       <ul>
         <li><b>Coordination Tutor</b> — Mathematics Dept., UniPD</li>
+        <li><b>Didactic Tutor</b> — Automata & Formal Languages, OOP, Computability (UniPD)</li>
         <li><b>Lecturer, Systems & Networks</b> — ITIS Galileo Ferraris, Padua</li>
-        <li><b>Didactic Tutor, Automata & Formal Languages</b> — UniPD</li>
-        <li><b>Didactic Tutor, Computability Theory</b> — UniPD</li>
         <li><b>Inclusion Tutor & Accessibility Consultant</b> — UniPD</li>
-        <li><b>Didactic Tutor, Object Oriented Programming</b> — UniPD</li>
       </ul>
       <p align="center"><i>350h inclusion support · 150h didactic tutoring · 10+ years private teaching</i></p>
     </td>
@@ -117,8 +113,6 @@
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
-
-<h3 align="center">Thesis & Research</h3>
 
 <table align="center" border="0">
   <tr>
@@ -130,106 +124,6 @@
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/WCAG_2.2-005A9C?style=flat-square&logoColor=white" alt="WCAG 2.2"/>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/gabrielrovesti/TinyML-Interpreter">TinyML-Interpreter</a></h3>
-      <p><b>ML Interpreter with Hindley-Milner Type Inference</b></p>
-      <p>Complete functional language interpreter implementing Hindley-Milner type inference and advanced type theory concepts in F#</p>
-      <div>
-        <img src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="F#"/>
-        <img src="https://img.shields.io/badge/Type_Theory-4B8BBE?style=flat-square&logoColor=white" alt="Type Theory"/>
-        <img src="https://img.shields.io/badge/Functional-A100FF?style=flat-square&logoColor=white" alt="Functional"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Production Applications</h3>
-
-<table align="center" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/gabrielrovesti/event-analyzer">Event Analyzer</a></h3>
-      <p><b>Reactive Real-time Event Processing</b></p>
-      <p>Spring WebFlux, MongoDB, Redis — reactive patterns for high-throughput data processing</p>
-      <div>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-        <img src="https://img.shields.io/badge/WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="WebFlux"/>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/gabrielrovesti/PredictSense">PredictSense</a></h3>
-      <p><b>ML-based Anomaly Detection</b></p>
-      <p>Microservices with FastAPI, Streamlit, RabbitMQ for real-time anomaly detection</p>
-      <div>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/gabrielrovesti/SystemFX">SystemFX</a></h3>
-      <p><b>Functional Stream Processing Framework</b></p>
-      <p>Advanced F# framework for composable data stream processing with formal guarantees</p>
-      <div>
-        <img src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="F#"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-        <img src="https://img.shields.io/badge/Functional-A100FF?style=flat-square&logoColor=white" alt="Functional"/>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/gabrielrovesti/FlutterRustImageFX">FlutterRustImageFX</a></h3>
-      <p><b>Cross-platform Photo Editing</b></p>
-      <p>Flutter UI with high-performance Rust image filters compiled to WebAssembly</p>
-      <div>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
-        <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">2025–2026 Personal Projects</h3>
-
-<table align="center" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/gabrielrovesti/mini_astarte">mini-astarte</a></h3>
-      <p><b>Local IoT Platform in Elixir</b></p>
-      <p>Single-tenant IoT platform inspired by Astarte — MQTT + HTTP ingest, SQLite storage, built entirely in Elixir</p>
-      <div>
-        <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir"/>
-        <img src="https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipse-mosquitto&logoColor=white" alt="MQTT"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/gabrielrovesti/web-sentinel">web-sentinel</a></h3>
-      <p><b>Security & Accessibility Auditing Extension</b></p>
-      <p>Chrome MV3 extension — live element highlighting, dual score gauges, WCAG + security vulnerability audit, exportable HTML reports</p>
-      <div>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome MV3"/>
-        <img src="https://img.shields.io/badge/WCAG-005A9C?style=flat-square&logoColor=white" alt="WCAG"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/gabrielrovesti/grab">grab</a></h3>
-      <p><b>Desktop Music Downloader</b></p>
-      <p>Native desktop app — search, preview, download MP3s via FastAPI + yt-dlp + pywebview, zero browser dependency</p>
-      <div>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="yt-dlp"/>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -264,36 +158,110 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/VerifiedMovies">VerifiedMovies</a></h3>
+      <p><b>B.Sc. Thesis — Blockchain Authentication</b></p>
+      <p>Verifiable Credentials and Zero-Knowledge Proofs for secure authentication on Ethereum, built during an internship at Sync Lab</p>
+      <div>
+        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
+        <img src="https://img.shields.io/badge/ZKP-121D33?style=flat-square&logoColor=white" alt="ZKP"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/web-sentinel">web-sentinel</a></h3>
+      <p><b>Security & Accessibility Auditing Extension</b></p>
+      <p>Chrome MV3 extension — live element highlighting, dual score gauges, WCAG + security vulnerability audit, exportable HTML reports</p>
+      <div>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome MV3"/>
+        <img src="https://img.shields.io/badge/WCAG-005A9C?style=flat-square&logoColor=white" alt="WCAG"/>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <details>
-  <summary><b>📚 Academic, Teaching & Utility Projects</b></summary>
+  <summary><b>📚 More Projects — Production, Research & Academic</b></summary>
   <table align="center" border="0">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/unipd-bachelor-master-computer-science-notes">UniPD CS Study Notes</a></h3>
-        <p>Comprehensive LaTeX notes for UniPD CS Bachelor & Master programs (Cybersecurity, Data Science tracks)</p>
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/TinyML-Interpreter">TinyML-Interpreter</a></h3>
+        <p>ML interpreter with Hindley-Milner type inference, implemented in F#</p>
         <div>
-          <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
-          <img src="https://img.shields.io/badge/Open_Source-4CAF50?style=flat-square&logoColor=white" alt="Open Source"/>
+          <img src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="F#"/>
+          <img src="https://img.shields.io/badge/Type_Theory-4B8BBE?style=flat-square&logoColor=white" alt="Type Theory"/>
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/Prove-di-Ammissione-Accessibili-UniPD">University Accessibility Toolkit</a></h3>
-        <p>WCAG 2.1 AA compliant templates for university admission tests, aligned with European Accessibility Act 2025</p>
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/event-analyzer">Event Analyzer</a></h3>
+        <p>Reactive real-time event processing — Spring WebFlux, MongoDB, Redis</p>
         <div>
-          <img src="https://img.shields.io/badge/WCAG_2.1-005A9C?style=flat-square&logoColor=white" alt="WCAG 2.1"/>
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
+          <img src="https://img.shields.io/badge/WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="WebFlux"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/PredictSense">PredictSense</a></h3>
+        <p>ML-based anomaly detection — microservices with FastAPI, Streamlit, RabbitMQ</p>
+        <div>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/SystemFX">SystemFX</a></h3>
+        <p>Functional stream processing framework with formal guarantees, in F#</p>
+        <div>
+          <img src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="F#"/>
+          <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/FlutterRustImageFX">FlutterRustImageFX</a></h3>
+        <p>Cross-platform photo editing — Flutter UI, Rust image filters compiled to WebAssembly</p>
+        <div>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/mini_astarte">mini-astarte</a></h3>
+        <p>Local single-tenant IoT platform inspired by Astarte — MQTT + HTTP ingest, SQLite storage</p>
+        <div>
+          <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir"/>
+          <img src="https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipse-mosquitto&logoColor=white" alt="MQTT"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/grab">grab</a></h3>
+        <p>Native desktop music downloader — FastAPI + yt-dlp + pywebview</p>
+        <div>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/unipd-bachelor-master-computer-science-notes">UniPD CS Study Notes</a></h3>
+        <p>Comprehensive LaTeX notes for UniPD CS Bachelor & Master programs</p>
+        <div>
           <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/VerifiedMovies">VerifiedMovies</a></h3>
-        <p>B.Sc. thesis — Verifiable Credentials and Zero Knowledge Proofs for secure authentication on Ethereum</p>
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/Prove-di-Ammissione-Accessibili-UniPD">University Accessibility Toolkit</a></h3>
+        <p>WCAG 2.1 AA compliant templates for university admission tests, aligned with European Accessibility Act 2025</p>
         <div>
-          <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain-dot-com&logoColor=white" alt="Blockchain"/>
-          <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
+          <img src="https://img.shields.io/badge/WCAG_2.1-005A9C?style=flat-square&logoColor=white" alt="WCAG 2.1"/>
         </div>
       </td>
       <td width="50%" valign="top">
@@ -301,7 +269,6 @@
         <p>Python migration script — 97% success rate (2151/2205 tracks transferred)</p>
         <div>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Spotify_API-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"/>
         </div>
       </td>
     </tr>
@@ -312,7 +279,6 @@
         <div>
           <img src="https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white" alt="Erlang"/>
           <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-          <img src="https://img.shields.io/badge/Distributed_Systems-673AB7?style=flat-square&logoColor=white" alt="Distributed"/>
         </div>
       </td>
       <td width="50%" valign="top">
@@ -327,38 +293,6 @@
 </details>
 
 ---
-
-<h2 align="center">🏆 Achievements</h2>
-
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="160px">
-      <div style="font-size: 28px; margin-bottom: 10px;">🎓</div>
-      <div style="font-weight: bold;">M.Sc. — 104/110</div>
-      <div style="font-size: 14px;">Thesis on mobile accessibility</div>
-    </td>
-    <td align="center" width="160px">
-      <div style="font-size: 28px; margin-bottom: 10px;">🏆</div>
-      <div style="font-weight: bold;">Top 50 STEM Students</div>
-      <div style="font-size: 14px;">39th by merit — UniPD 23/24</div>
-    </td>
-    <td align="center" width="160px">
-      <div style="font-size: 28px; margin-bottom: 10px;">🥈</div>
-      <div style="font-weight: bold;">Web Accessibility Competition</div>
-      <div style="font-size: 14px;">Runner-up</div>
-    </td>
-    <td align="center" width="160px">
-      <div style="font-size: 28px; margin-bottom: 10px;">♿</div>
-      <div style="font-weight: bold;">350h Inclusion Support</div>
-      <div style="font-size: 14px;">UniPD Accessibility Services</div>
-    </td>
-    <td align="center" width="160px">
-      <div style="font-size: 28px; margin-bottom: 10px;">👨‍🏫</div>
-      <div style="font-weight: bold;">10+ Years Teaching</div>
-      <div style="font-size: 14px;">University · High School · Private</div>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -380,6 +314,7 @@
           <i>Thesis: VerifiedMovies — blockchain-based authentication with ZKP</i>
         </li>
       </ul>
+      <p align="center"><i>🏆 Top 50 STEM Students (39th, UniPD 23/24) · 🥈 Web Accessibility Competition runner-up</i></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Certifications</h3>
