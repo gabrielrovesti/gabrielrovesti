@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://gabrielrovesti.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://gabrielrovesti.github.io/docs/CV%20Gabriel%20Rovesti.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/></a>
+    <a href="https://gabrielrovesti.github.io/docs/CV%20Gabriel%20Rovesti_English.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/></a>
     <a href="https://www.linkedin.com/in/gabriel-rovesti-601404220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:rovestigabriel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
     <img src="https://img.shields.io/badge/IBM_Instana-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Instana"/>
     </td>
-    <td align="center"><b>AI & Research</b><br><img src="https://skillicons.dev/icons?i=tensorflow,graphql,arduino,matlab,sass" alt="AI & Research" /><br>
+    <td align="center"><b>AI & Research</b><br><img src="https://skillicons.dev/icons?i=tensorflow,graphql,arduino,sass" alt="AI & Research" /><br>
     <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=white" alt="Model Context Protocol"/>
     <img src="https://img.shields.io/badge/AI_Agents-10B981?style=flat-square&logoColor=white" alt="AI Agents"/>
     <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WASM"/>
@@ -243,6 +243,27 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/spring-boot-migration-guide">spring-boot-migration-guide</a></h3>
+      <p><b>Spring Boot 2.7 → 3.x → 4.x Migration Guide</b></p>
+      <p>Practical migration guide cross-checked against official sources, verified with a working demo app at every stage</p>
+      <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Spring_Boot_3%2F4-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot 3/4"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/gabrielrovesti/ctrl-verify">ctrl-verify</a></h3>
+      <p><b>Symbolic Formal Methods for Reactive Systems</b></p>
+      <p>BDD-based supervisor synthesis (CIF/ESCET) and symbolic model checking of safety/response properties (PyNuSMV/NuSMV)</p>
+      <div>
+        <img src="https://img.shields.io/badge/CIF%2FESCET-0052CC?style=flat-square&logoColor=white" alt="CIF/ESCET"/>
+        <img src="https://img.shields.io/badge/PyNuSMV-4B8BBE?style=flat-square&logoColor=white" alt="PyNuSMV"/>
+        <img src="https://img.shields.io/badge/BDD-673AB7?style=flat-square&logoColor=white" alt="BDD"/>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <details>
@@ -258,7 +279,7 @@
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/gabrielrovesti/university-accessibility-toolkit">University Accessibility Toolkit</a></h3>
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/Prove-di-Ammissione-Accessibili-UniPD">University Accessibility Toolkit</a></h3>
         <p>WCAG 2.1 AA compliant templates for university admission tests, aligned with European Accessibility Act 2025</p>
         <div>
           <img src="https://img.shields.io/badge/WCAG_2.1-005A9C?style=flat-square&logoColor=white" alt="WCAG 2.1"/>
@@ -371,7 +392,7 @@
           <img src="https://img.shields.io/badge/Lightbend_Reactive-E25A1C?style=for-the-badge&logoColor=white" alt="Lightbend Reactive Architecture"/>
           <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco"/>
           <img src="https://img.shields.io/badge/Berlitz_German_A2-B848EC?style=for-the-badge&logoColor=white" alt="Berlitz German A2"/>
-          <img src="https://img.shields.io/badge/Cambridge_B2-012169?style=for-the-badge&logoColor=white" alt="Cambridge B2 First"/>
+          <img src="https://img.shields.io/badge/English_B2_(UniPD)-012169?style=for-the-badge&logoColor=white" alt="English B2 — Università di Padova"/>
         </div>
     </td>
   </tr>
@@ -413,7 +434,7 @@
 </div>
 
 <div align="center">
-  <i>Good software works for everyone — that's not an option, it's a baseline.</i>
+  Building software that works for everyone isn't a nice-to-have — it's the job.
 </div>
 
 <div align="center">
