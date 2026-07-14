@@ -362,10 +362,6 @@
   <a href="https://gabrielrovesti.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;
-  <a href="https://dev.to/gabrielrovesti" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
 </div>
 
 <div align="center">
