@@ -327,7 +327,7 @@
           <img src="https://img.shields.io/badge/Lightbend_Reactive-E25A1C?style=for-the-badge&logoColor=white" alt="Lightbend Reactive Architecture"/>
           <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco"/>
           <img src="https://img.shields.io/badge/Berlitz_German_A2-B848EC?style=for-the-badge&logoColor=white" alt="Berlitz German A2"/>
-          <img src="https://img.shields.io/badge/English_B2_(UniPD)-012169?style=for-the-badge&logoColor=white" alt="English B2 — Università di Padova"/>
+          <img src="https://img.shields.io/badge/English_C1_IELTS-012169?style=for-the-badge&logoColor=white" alt="English C1 IELTS - 7.5 Band"/>
         </div>
     </td>
   </tr>
