@@ -126,17 +126,17 @@
         <img src="https://img.shields.io/badge/WCAG_2.2-005A9C?style=flat-square&logoColor=white" alt="WCAG 2.2"/>
       </div>
     </td>
+    <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/gabrielrovesti/spring-boot-migration-guide">spring-boot-migration-guide</a></h3>
+        <p><b>Spring Boot 2.7 → 3.x → 4.x Migration Guide</b></p>
+        <p>Practical migration guide cross-checked against official sources, verified with a working demo app at every stage</p>
+        <div>
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+          <img src="https://img.shields.io/badge/Spring_Boot_3%2F4-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot 3/4"/>
+        </div>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/gabrielrovesti/spring-boot-migration-guide">spring-boot-migration-guide</a></h3>
-      <p><b>Spring Boot 2.7 → 3.x → 4.x Migration Guide</b></p>
-      <p>Practical migration guide cross-checked against official sources, verified with a working demo app at every stage</p>
-      <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/Spring_Boot_3%2F4-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot 3/4"/>
-      </div>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/gabrielrovesti/ctrl-verify">ctrl-verify</a></h3>
       <p><b>Symbolic Formal Methods for Reactive Systems</b></p>
@@ -147,8 +147,6 @@
         <img src="https://img.shields.io/badge/BDD-673AB7?style=flat-square&logoColor=white" alt="BDD"/>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/gabrielrovesti/VerifiedMovies">VerifiedMovies</a></h3>
       <p><b>B.Sc. Thesis — Blockchain Authentication</b></p>
@@ -157,16 +155,6 @@
         <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
         <img src="https://img.shields.io/badge/ZKP-121D33?style=flat-square&logoColor=white" alt="ZKP"/>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/gabrielrovesti/web-sentinel">web-sentinel</a></h3>
-      <p><b>Security & Accessibility Auditing Extension</b></p>
-      <p>Chrome MV3 extension — live element highlighting, dual score gauges, WCAG + security vulnerability audit, exportable HTML reports</p>
-      <div>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome MV3"/>
-        <img src="https://img.shields.io/badge/WCAG-005A9C?style=flat-square&logoColor=white" alt="WCAG"/>
       </div>
     </td>
   </tr>
