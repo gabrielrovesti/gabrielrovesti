@@ -93,7 +93,7 @@
       <ul>
         <li><b>IT Consultant</b> — Technology Reply, Padua<br>
         <i>Backend microservices for Generali insurance group · Java BE and Spring Boot 2,3,4 migrations and implementations · Kubernetes/Jenkins/Docker · Oracle SQL · AWS · incident management via BMC Helix · observability with Grafana, Splunk & IBM Instana</i></li>
-        <li><b>Private Tutor & IT Consultant</b> — Freelance (2016 – present)<br>
+        <li><b>Private Tutor & IT Consultant</b> — Freelance (2016 – 2026)<br>
         <i>10+ years, specialization in DSA/BES/ADHD learners · startup tech advisory</i></li>
       </ul>
     </td>
