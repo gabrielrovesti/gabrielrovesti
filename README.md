@@ -126,16 +126,6 @@
         <img src="https://img.shields.io/badge/WCAG_2.2-005A9C?style=flat-square&logoColor=white" alt="WCAG 2.2"/>
       </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/gabrielrovesti/ai-agent-skills">ai-agent-skills</a></h3>
-      <p><b>Cross-provider Agent Skill Library</b></p>
-      <p>Reusable skill collection for Claude Code, Codex CLI and other AI providers — portable agent workflow primitives</p>
-      <div>
-        <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=white" alt="MCP"/>
-        <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
-        <img src="https://img.shields.io/badge/AI_Agents-10B981?style=flat-square&logoColor=white" alt="AI Agents"/>
-      </div>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
