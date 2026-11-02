@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=It%27s-a-me%2C%20Gabriel%21&fontSize=48&animation=fadeIn&fontAlignY=36&desc=IT%20Consultant%20%7C%20Full%20Stack%20Developer%20%7C%20Tech%20Educator%20%26%20Accessibility%20Advocate&descAlignY=62&descAlign=50&descFontSize=16" width="100%" alt="Gabriel Rovesti header"/>
+<img src="https://mark.sylphx.com/api/v1/mark/hero?type=waving&theme=grape&text=It's-a-me,%20Gabriel!&desc=IT%20Consultant%20%7C%20Full%20Stack%20Developer%20%7C%20Tech%20Educator%20%26%20Accessibility%20Advocate&descFontSize=16" width="100%" alt="Gabriel Rovesti header"/>
 </div>
 
 <div align="center">
